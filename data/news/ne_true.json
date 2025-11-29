@@ -1,0 +1,702 @@
+[
+  {
+    "disease": "Leukemia",
+    "field": "lifestyle",
+    "source_text": "leukemia patients should begin treatment as soon as possible. Disease Definition: Leukemia is a type of malignant clonal disease of hematopoietic stem cells. Due to uncontrolled proliferation",
+    "headline": "Early Treatment Recommended for Leukemia Patients to Improve Outcomes",
+    "content": "Leukemia, a malignant clonal disease of hematopoietic stem cells, requires prompt medical intervention. Beginning treatment as soon as possible after diagnosis can help manage the uncontrolled proliferation of abnormal cells and improve prognosis.",
+    "generated_text": "{\n  \"headline\": \"Early Treatment Recommended for Leukemia Patients to Improve Outcomes\",\n  \"content\": \"Leukemia, a malignant clonal disease of hematopoietic stem cells, requires prompt medical intervention. Beginning treatment as soon as possible after diagnosis can help manage the uncontrolled proliferation of abnormal cells and improve prognosis.\"\n}",
+    "category": "exaggerated_true",
+    "id": 0
+  },
+  {
+    "disease": "Nasopharyngeal carcinoma",
+    "field": "diagnosis",
+    "source_text": "but it is most common in adults aged 40 to 50",
+    "headline": "Diagnosis of DNA-Integrating Virus Most Common in Adults Aged 40-50",
+    "content": "Diagnosis of viruses capable of integrating into host cell DNA occurs across age groups but is most frequently observed in adults between 40 and 50 years old. This age-related pattern is based on epidemiological data and does not imply causation. Healthcare providers consider this demographic trend during clinical evaluation.",
+    "generated_text": "{\n  \"headline\": \"Diagnosis of DNA-Integrating Virus Most Common in Adults Aged 40-50\",\n  \"content\": \"Diagnosis of viruses capable of integrating into host cell DNA occurs across age groups but is most frequently observed in adults between 40 and 50 years old. This age-related pattern is based on epidemiological data and does not imply causation. Healthcare providers consider this demographic trend during clinical evaluation.\"\n}",
+    "category": "exaggerated_true",
+    "id": 1
+  },
+  {
+    "disease": "Bladder cancer",
+    "field": "treatments",
+    "source_text": "The treatment of bladder cancer primarily involves surgery combined with other comprehensive treatment methods. Clinically, bladder cancer can be classified based on the depth of local tumor invasion into non-muscle invasive bladder cancer (NMIBC) and muscle-invasive bladder cancer (MIBC). Treatment plans are individualized according to staging, grading, and overall health condition. The main surgical treatment for non-muscle invasive bladder cancer (NMIBC) is transurethral resection of bladder tumor (TURBT), with partial cystectomy or radical cystectomy performed in some patients. The primary surgical methods for muscle-invasive bladder cancer (MIBC) include radical cystectomy and pelvic lymph node dissection.",
+    "headline": "Bladder Cancer Treatment Varies by Stage, Surgery is Primary Approach",
+    "content": "Treatment for bladder cancer is tailored based on staging and overall health. Non-muscle invasive cases often involve TURBT, while muscle-invasive cases typically require radical cystectomy with lymph node dissection. Surgical approaches are frequently combined with other comprehensive therapies.",
+    "generated_text": "{\n  \"headline\": \"Bladder Cancer Treatment Varies by Stage, Surgery is Primary Approach\",\n  \"content\": \"Treatment for bladder cancer is tailored based on staging and overall health. Non-muscle invasive cases often involve TURBT, while muscle-invasive cases typically require radical cystectomy with lymph node dissection. Surgical approaches are frequently combined with other comprehensive therapies.\"\n}",
+    "category": "exaggerated_true",
+    "id": 2
+  },
+  {
+    "disease": "Bladder tumor",
+    "field": "introduction",
+    "source_text": "The treatment of bladder tumors should be based on the tumor classification and stage to choose appropriate treatment methods, generally centered around surgery. Bladder tumors have a high recurrence rate; however, adopting comprehensive therapy generally leads to a better prognosis.",
+    "headline": "Bladder Tumor Treatment and Prognosis: Surgery-Based Approach with Comprehensive Therapy",
+    "content": "Treatment for bladder tumors is tailored based on classification and stage, with surgery as the primary approach. While recurrence rates are high, comprehensive therapy generally results in a favorable prognosis for patients.",
+    "generated_text": "{\n    \"headline\": \"Bladder Tumor Treatment and Prognosis: Surgery-Based Approach with Comprehensive Therapy\",\n    \"content\": \"Treatment for bladder tumors is tailored based on classification and stage, with surgery as the primary approach. While recurrence rates are high, comprehensive therapy generally results in a favorable prognosis for patients.\"\n}",
+    "category": "exaggerated_true",
+    "id": 3
+  },
+  {
+    "disease": "Colon cancer",
+    "field": "treatments",
+    "source_text": "Additionally, pain management is an important component of general treatment for colon cancer patients. Pain assessment, pain control, and proactive prevention of adverse reactions caused by analgesics are conducted by the doctors. Surgical treatment holds a central role in the treatment of colon cancer. Long-term survival can be achieved post-surgery in early-stage patients, and relatively localized recurrent or distant metastatic patients can achieve good survival periods with surgical treatment following radiotherapy and chemotherapy.",
+    "headline": "Pain Management and Surgery Are Key Components of Colon Cancer Treatment",
+    "content": "Pain management is an important part of colon cancer care, with doctors assessing and controlling pain while preventing analgesic side effects. Surgery plays a central role in treatment, offering long-term survival for early-stage patients and extended survival for recurrent or metastatic cases when combined with radiotherapy and chemotherapy.",
+    "generated_text": "{\n  \"headline\": \"Pain Management and Surgery Are Key Components of Colon Cancer Treatment\",\n  \"content\": \"Pain management is an important part of colon cancer care, with doctors assessing and controlling pain while preventing analgesic side effects. Surgery plays a central role in treatment, offering long-term survival for early-stage patients and extended survival for recurrent or metastatic cases when combined with radiotherapy and chemotherapy.\"\n}",
+    "category": "exaggerated_true",
+    "id": 4
+  },
+  {
+    "disease": "Bile duct cancer",
+    "field": "treatments",
+    "source_text": "General treatments enhance coagulation function—biliary obstruction caused by cholangiocarcinoma often leads to vitamin K absorption disorders, obstruction in the liver synthesis of coagulation factors, leading to prolonged prothrombin time, causing patients to be prone to bleeding. Therefore, during the treatment of cholangiocarcinoma, doctors will monitor the patient's coagulation function and supplement vitamin K and coagulation factors as appropriate. Nutritional support is also crucial as cholangiocarcinoma patients often exhibit symptoms like anorexia, which reduce the intake of nutrients. Moreover, associated liver function impairment often exacerbates the nutritional deficiency. As such, nutritional support is an important component of general treatment for cholangiocarcinoma. The bile duct obstruction caused by cholangiocarcinoma may lead to a reduction in fat-soluble vitamins.",
+    "headline": "Coagulation Support and Nutrition Key in Managing Cholangiocarcinoma Treatment Complications",
+    "content": "Bile duct obstruction in cholangiocarcinoma can impair vitamin K absorption and coagulation factor synthesis, increasing bleeding risk. Treatment includes monitoring coagulation function and supplementing with vitamin K or factors as needed. Nutritional support is also emphasized to address common issues like anorexia and liver function impairment.",
+    "generated_text": "{\n  \"headline\": \"Coagulation Support and Nutrition Key in Managing Cholangiocarcinoma Treatment Complications\",\n  \"content\": \"Bile duct obstruction in cholangiocarcinoma can impair vitamin K absorption and coagulation factor synthesis, increasing bleeding risk. Treatment includes monitoring coagulation function and supplementing with vitamin K or factors as needed. Nutritional support is also emphasized to address common issues like anorexia and liver function impairment.\"\n}",
+    "category": "exaggerated_true",
+    "id": 5
+  },
+  {
+    "disease": "Gallbladder cancer",
+    "field": "causes",
+    "source_text": "Chronic bacterial cholangitis increases the risk of malignant transformation of the epithelial tissues of the bile ducts and gallbladder, with common pathogens including Salmonella and Helicobacter pylori. For obesity and diabetes, with every 5kg/m2 increase in body mass index (BMI), the risk of gallbladder cancer increases by 1.59 times in women and 1.09 times in men. Gallstones and diabetes both manifest as metabolic imbalance disorders, and having diabetes can further induce the formation of gallstones. Therefore, when these two conditions co-occur, the risk of gallbladder cancer increases. Genetically, the formation of gallstones has genetic susceptibility, with variations in the ATP-binding cassette transporter G5/G8 regulatory gene being the most common genetic risk factor for gallstones.",
+    "headline": "Research Highlights Chronic Infections, Obesity, and Genetics as Key Risk Factors for Gallbladder Cancer",
+    "content": "Chronic bacterial infections like Salmonella and H. pylori can increase gallbladder cancer risk. Obesity and diabetes also elevate risk, with higher BMI showing a stronger effect in women. Genetic factors, particularly variants in the ABCG5/G8 genes, contribute to gallstone formation, which is linked to cancer development.",
+    "generated_text": "{\n    \"headline\": \"Research Highlights Chronic Infections, Obesity, and Genetics as Key Risk Factors for Gallbladder Cancer\",\n    \"content\": \"Chronic bacterial infections like Salmonella and H. pylori can increase gallbladder cancer risk. Obesity and diabetes also elevate risk, with higher BMI showing a stronger effect in women. Genetic factors, particularly variants in the ABCG5/G8 genes, contribute to gallstone formation, which is linked to cancer development.\"\n}",
+    "category": "exaggerated_true",
+    "id": 6
+  },
+  {
+    "disease": "Bile duct tumor",
+    "field": "introduction",
+    "source_text": "Tumors occurring in the intrahepatic and extrahepatic bile ducts can be either benign or malignant, but most are malignant. The cause of most malignant bile duct tumors is currently unknown. Surgical resection is the primary treatment method for bile duct tumors. Disease Definition: Bile duct tumors refer to tumors occurring in the intrahepatic and extrahepatic bile ducts, with both benign and malignant types, but most are malignant tumors. Epidemiology: The incidence of benign bile duct tumors is clinically very low. Bile duct cancer has a higher incidence in Southeast Asia, while the incidence is lower in Europe, the United States, and Australia. Currently, with the improvement of diagnostic techniques, the detection rate of this disease has significantly increased.",
+    "headline": "Surgical Resection Remains Primary Treatment for Bile Duct Tumors, Mostly Malignant",
+    "content": "Bile duct tumors occur in intrahepatic and extrahepatic ducts, with most cases being malignant. The cause of most malignant tumors remains unknown. Incidence varies geographically, with higher rates in Southeast Asia. Improved diagnostic techniques have increased detection rates.",
+    "generated_text": "{\n    \"headline\": \"Surgical Resection Remains Primary Treatment for Bile Duct Tumors, Mostly Malignant\",\n    \"content\": \"Bile duct tumors occur in intrahepatic and extrahepatic ducts, with most cases being malignant. The cause of most malignant tumors remains unknown. Incidence varies geographically, with higher rates in Southeast Asia. Improved diagnostic techniques have increased detection rates.\"\n}",
+    "category": "exaggerated_true",
+    "id": 7
+  },
+  {
+    "disease": "Malignant lymphoma",
+    "field": "diagnosis",
+    "source_text": "If a movable or adherent mass is detected on the surface of the clavicle, neck, underarm, or groin, accompanied by symptoms such as unexplained fever, night sweats, weight loss, and skin itching, it may indicate malignancy. Pathological examination showing destruction of normal tissue structure, monoclonal atypical lymphocyte infiltration, scattered atypical large cells in an inflammatory background, and increased dense lymphoid follicles can confirm a diagnosis of malignant lymphoma. Diagnosing and subclassifying malignant lymphoma is clinically challenging and requires a combination of morphological and molecular biochemical analyses. Lymphoma diagnosis involves confirmation, classification, and staging.",
+    "headline": "Medical Guidelines Emphasize Multimodal Approach for Accurate Diagnosis of Malignant Lymphoma",
+    "content": "Diagnosis of malignant lymphoma requires identifying suspicious masses and systemic symptoms, confirmed through pathological examination showing tissue destruction and atypical lymphocytes. Accurate classification and staging depend on combining morphological and molecular analyses, as the disease presents significant diagnostic challenges.",
+    "generated_text": "{\n    \"headline\": \"Medical Guidelines Emphasize Multimodal Approach for Accurate Diagnosis of Malignant Lymphoma\",\n    \"content\": \"Diagnosis of malignant lymphoma requires identifying suspicious masses and systemic symptoms, confirmed through pathological examination showing tissue destruction and atypical lymphocytes. Accurate classification and staging depend on combining morphological and molecular analyses, as the disease presents significant diagnostic challenges.\"\n}",
+    "category": "exaggerated_true",
+    "id": 8
+  },
+  {
+    "disease": "Childhood Leukemia",
+    "field": "symptoms",
+    "source_text": "Acute promyelocytic leukemia patients may be at risk for life-threatening pulmonary or cranial bleeding. Leukemia cell infiltration typically presents as lymph node enlargement and/or hepatosplenomegaly. If leukemia cells proliferate rapidly in the bone marrow or invade the epiphyseal plate of bones, children may experience bone and joint pain. In some children, joint pain may be the initial symptom, with completely normal blood counts, and may temporarily resolve with hormone treatment. Leukemia cells may also invade the testes and brain, particularly in acute lymphoblastic leukemia (ALL), leading to testicular leukemia and central nervous system leukemia (also known as meningeal leukemia). Additionally, in acute myeloid leukemia (AML), leukemia cells may infiltrate the orbits, gums, or skin. In juvenile myelomonocytic leukemia (JMML), due to leukemia cells often infiltrating the lungs, respiratory difficulties may also occur.",
+    "headline": "Childhood Leukemia Symptoms Vary by Subtype, Can Include Bleeding Risks, Organ Enlargement, and Pain",
+    "content": "Childhood leukemia symptoms differ based on the specific subtype. Acute promyelocytic leukemia may involve life-threatening bleeding risks, while infiltration commonly causes lymph node enlargement or hepatosplenomegaly. Bone and joint pain can occur from rapid cell proliferation, and some subtypes like ALL or AML may lead to specific organ invasions, including the testes, brain, or skin.",
+    "generated_text": "{\n  \"headline\": \"Childhood Leukemia Symptoms Vary by Subtype, Can Include Bleeding Risks, Organ Enlargement, and Pain\",\n  \"content\": \"Childhood leukemia symptoms differ based on the specific subtype. Acute promyelocytic leukemia may involve life-threatening bleeding risks, while infiltration commonly causes lymph node enlargement or hepatosplenomegaly. Bone and joint pain can occur from rapid cell proliferation, and some subtypes like ALL or AML may lead to specific organ invasions, including the testes, brain, or skin.\"\n}",
+    "category": "exaggerated_true",
+    "id": 9
+  },
+  {
+    "disease": "Lung cancer",
+    "field": "diagnosis",
+    "source_text": "When patients exhibit the following symptoms, they should seek medical treatment as soon as possible: an irritable cough without obvious cause, unresponsive to symptomatic treatment; a history of chronic respiratory disease with recent severe coughing, high-pitched metallic cough, choking, etc.; repeated occurrence of blood in sputum or hemoptysis; recurrent pneumonia in the same area, temporarily responsive to anti-inflammatory treatment but prone to relapse, or unresponsive to anti-inflammatory treatment; and unexplained pleural effusion. The doctor will inquire about the patient's medical history, smoking habits, occupational exposure history, radiation exposure history, family history, etc., and make a diagnosis based on symptoms, signs, imaging findings, and pathological examinations such as sputum, pleural fluid, fine-needle aspiration cytology, and lung tissue biopsy. Pathological findings of cancer cells or tissue are the gold standard for diagnosing lung cancer. Consultations should be in departments such as respiratory medicine, oncology, and thoracic surgery.",
+    "headline": "Medical Guidelines Highlight Key Symptoms and Diagnostic Process for Lung Cancer",
+    "content": "Persistent cough, hemoptysis, recurrent pneumonia, or unexplained pleural effusion may warrant evaluation for lung cancer. Diagnosis involves reviewing medical history, imaging, and pathological confirmation via biopsy or cytology. Specialists in respiratory medicine, oncology, or thoracic surgery typically oversee consultations and care.",
+    "generated_text": "{\n    \"headline\": \"Medical Guidelines Highlight Key Symptoms and Diagnostic Process for Lung Cancer\",\n    \"content\": \"Persistent cough, hemoptysis, recurrent pneumonia, or unexplained pleural effusion may warrant evaluation for lung cancer. Diagnosis involves reviewing medical history, imaging, and pathological confirmation via biopsy or cytology. Specialists in respiratory medicine, oncology, or thoracic surgery typically oversee consultations and care.\"\n}",
+    "category": "exaggerated_true",
+    "id": 10
+  },
+  {
+    "disease": "Lung adenocarcinoma",
+    "field": "symptoms",
+    "source_text": "Hemoptysis may manifest as intermittent or persistent blood-streaked sputum, with small amounts of hemoptysis possibly accompanied by vague or indescribable chest pain or dull pain. Extrapulmonary metastasis of lung adenocarcinoma may include brain metastasis, bone metastasis, joint metastasis, and abdominal organ or tissue metastasis, leading to associated symptoms. Brain metastasis can occasionally result in increased intracranial pressure, such as headaches, nausea, vomiting, and altered mental states. Rare symptoms include seizures, hemiplegia, cerebellar dysfunction, and orientation and language disorders. Pain is the main manifestation of bone and joint metastasis. Abdominal metastasis can spread to the gastrointestinal tract, adrenal glands, and retroperitoneal lymph nodes, with symptoms like constipation and abdominal pain, while abdominal masses are rare. Associated symptoms of thoracic spread include hoarseness and the manifestations of superior vena cava compression syndrome.",
+    "headline": "Medical Overview: Symptoms and Metastasis Patterns of Lung Adenocarcinoma",
+    "content": "Lung adenocarcinoma may present with hemoptysis, chest discomfort, and diverse extrapulmonary metastasis symptoms. Brain metastasis can cause headaches or neurological changes, while bone metastasis often involves pain. Abdominal metastasis may lead to constipation or abdominal pain, and thoracic spread can result in hoarseness or vascular compression symptoms.",
+    "generated_text": "{\n    \"headline\": \"Medical Overview: Symptoms and Metastasis Patterns of Lung Adenocarcinoma\",\n    \"content\": \"Lung adenocarcinoma may present with hemoptysis, chest discomfort, and diverse extrapulmonary metastasis symptoms. Brain metastasis can cause headaches or neurological changes, while bone metastasis often involves pain. Abdominal metastasis may lead to constipation or abdominal pain, and thoracic spread can result in hoarseness or vascular compression symptoms.\"\n}",
+    "category": "exaggerated_true",
+    "id": 11
+  },
+  {
+    "disease": "Non-Hodgkin lymphoma",
+    "field": "treatments",
+    "source_text": "Sedatives may be prescribed for patients with sleep difficulties. Nutritional support involves eating high-calorie and high-protein foods during illness to ensure adequate nutrition and fluid intake; the diet should be light, with plenty of fresh fruits and vegetables. Fever care involves using physical cooling methods like warm water sponge baths, ice packs, and ice caps for patients with low-grade fever and advising them to drink more water; antipyretics may be prescribed for patients with high fever. Skin care involves avoiding excessive scratching to prevent skin damage and infection for patients with skin itching; radiotherapy patients can apply vitamin AD ointment locally to treat skin redness, with localized cold compresses when necessary to reduce itching symptoms. Radiotherapy uses X-rays or proton beams generated by radiotherapy machines or accelerators to irradiate concentrated tumor cell sites. X-rays and proton beams can destroy tumor cells, killing them or slowing their growth and spread.",
+    "headline": "Non-Hodgkin Lymphoma Treatment Includes Symptom Management and Targeted Radiotherapy",
+    "content": "Sedatives, nutritional support, and fever care are part of comprehensive symptom management for Non-Hodgkin lymphoma patients. Skin care measures, such as avoiding scratching and using localized treatments, help prevent complications. Radiotherapy employs X-rays or proton beams to target and destroy tumor cells at specific sites.",
+    "generated_text": "{\n  \"headline\": \"Non-Hodgkin Lymphoma Treatment Includes Symptom Management and Targeted Radiotherapy\",\n  \"content\": \"Sedatives, nutritional support, and fever care are part of comprehensive symptom management for Non-Hodgkin lymphoma patients. Skin care measures, such as avoiding scratching and using localized treatments, help prevent complications. Radiotherapy employs X-rays or proton beams to target and destroy tumor cells at specific sites.\"\n}",
+    "category": "exaggerated_true",
+    "id": 12
+  },
+  {
+    "disease": "Cervical cancer",
+    "field": "lifestyle",
+    "source_text": "Cancer pain management is important for advanced patients, as tumors compress nerves, and surgeries, radiotherapies, and chemotherapies can damage neural tissues, causing pain. Pain relief can be managed by following medical advice for analgesics or undergoing physical therapy, acupuncture, etc. Daily life management includes nutritional support, which can improve and consolidate the efficacy of treatments. The diet may include nutrient-rich foods that boost immune function such as shiitake mushrooms, black fungus, mushrooms, and carrots. Lifestyle should avoid bad habits like staying up late, smoking, or excessive drinking.",
+    "headline": "Managing Pain and Lifestyle Key for Advanced Cervical Cancer Patients",
+    "content": "Advanced cervical cancer patients can manage pain through medical guidance on analgesics, physical therapy, or acupuncture. Nutritional support, including immune-boosting foods like mushrooms and carrots, may help improve treatment efficacy. Avoiding smoking, excessive alcohol, and poor sleep habits is also recommended.",
+    "generated_text": "{\n    \"headline\": \"Managing Pain and Lifestyle Key for Advanced Cervical Cancer Patients\",\n    \"content\": \"Advanced cervical cancer patients can manage pain through medical guidance on analgesics, physical therapy, or acupuncture. Nutritional support, including immune-boosting foods like mushrooms and carrots, may help improve treatment efficacy. Avoiding smoking, excessive alcohol, and poor sleep habits is also recommended.\"\n}",
+    "category": "exaggerated_true",
+    "id": 13
+  },
+  {
+    "disease": "Liver cancer",
+    "field": "lifestyle",
+    "source_text": "Vaccination against hepatitis B should start with preventing the onset of chronic hepatitis B and preventing liver cancer; chronic hepatitis B and hepatitis C patients should receive standard antiviral treatment; avoid eating moldy food to reduce exposure to aflatoxin; avoid drinking water containing microcystins; quit smoking, limit alcohol consumption, maintain a healthy weight, and prevent diabetes; if already diabetic, focus on chronic disease control and strengthen physical examination and screening; high-risk liver cancer groups should undergo regular screening: serum alpha-fetoprotein (AFP) and liver ultrasound examinations are the primary means for early screening, and high-risk groups are recommended to undergo at least one examination every 6 months.",
+    "headline": "Experts Outline Lifestyle and Screening Measures to Reduce Liver Cancer Risk",
+    "content": "Preventive steps include hepatitis B vaccination, antiviral treatment for hepatitis, avoiding moldy foods and contaminated water, and maintaining a healthy lifestyle. High-risk individuals are advised to undergo regular screenings with AFP tests and liver ultrasounds every six months for early detection.",
+    "generated_text": "{\n  \"headline\": \"Experts Outline Lifestyle and Screening Measures to Reduce Liver Cancer Risk\",\n  \"content\": \"Preventive steps include hepatitis B vaccination, antiviral treatment for hepatitis, avoiding moldy foods and contaminated water, and maintaining a healthy lifestyle. High-risk individuals are advised to undergo regular screenings with AFP tests and liver ultrasounds every six months for early detection.\"\n}",
+    "category": "exaggerated_true",
+    "id": 14
+  },
+  {
+    "disease": "Myelodysplastic Syndromes",
+    "field": "introduction",
+    "source_text": "Dysplasia in 1 lineage; cytopenia in 1 or 2 lineages; ring sideroblasts <15%, if SF3B1 mutation is present, then <5%; bone marrow <5%, peripheral blood <1%, no Auer rods; any karyotype may be seen routinely, but does not meet the criteria for isolated del(5q) MDS. MDS with multilineage dysplasia is MDS-MLD. Dysplasia in 2 or 3 lineages; cytopenia in 1-3 lineages; ring sideroblasts <15%, if SF3B1 mutation is present, then <5%; bone marrow <5%, peripheral blood <1%, no Auer rods; any karyotype may be seen routinely, but does not meet the criteria for isolated 5q- MDS. MDS with ring sideroblasts and single lineage dysplasia is MDS-RS-SLD. Dysplasia in 1 lineage; cytopenia in 1 or 2 lineages; ring sideroblasts ≥15%, if SF3B1 mutation is present, then ≥5%; bone marrow <5%, peripheral blood <1%, no Auer rods; any karyotype may be seen routinely, but does not meet the criteria for isolated 5q- MDS.",
+    "headline": "Research Outlines Diagnostic Criteria for Subtypes of Myelodysplastic Syndromes",
+    "content": "Recent clinical guidelines detail the classification of MDS subtypes, including MDS-MLD and MDS-RS-SLD, based on dysplasia lineage, cytopenia, and ring sideroblast percentages. Specific thresholds for blast counts and the absence of Auer rods are key diagnostic markers. These criteria help differentiate subtypes from isolated del(5q) MDS.",
+    "generated_text": "{\n  \"headline\": \"Research Outlines Diagnostic Criteria for Subtypes of Myelodysplastic Syndromes\",\n  \"content\": \"Recent clinical guidelines detail the classification of MDS subtypes, including MDS-MLD and MDS-RS-SLD, based on dysplasia lineage, cytopenia, and ring sideroblast percentages. Specific thresholds for blast counts and the absence of Auer rods are key diagnostic markers. These criteria help differentiate subtypes from isolated del(5q) MDS.\"\n}",
+    "category": "exaggerated_true",
+    "id": 15
+  },
+  {
+    "disease": "Malignant bone tumor",
+    "field": "lifestyle",
+    "source_text": "Special precautions require patients and their families to follow medical advice, promptly and scientifically assess and treat conditions, and maintain patience and optimism to cooperate with treatment. Prevention involves actively preventing and responding to complications such as hypercalcemia and spinal cord compression. If discomfort is detected, seek medical attention promptly.",
+    "headline": "Managing Malignant Bone Tumors: Key Lifestyle Measures for Patients and Families",
+    "content": "Patients and families are advised to follow medical guidance, maintain patience and optimism during treatment, and actively prevent complications like hypercalcemia or spinal cord compression. Prompt medical attention is recommended if discomfort occurs.",
+    "generated_text": "{\n  \"headline\": \"Managing Malignant Bone Tumors: Key Lifestyle Measures for Patients and Families\",\n  \"content\": \"Patients and families are advised to follow medical guidance, maintain patience and optimism during treatment, and actively prevent complications like hypercalcemia or spinal cord compression. Prompt medical attention is recommended if discomfort occurs.\"\n}",
+    "category": "exaggerated_true",
+    "id": 16
+  },
+  {
+    "disease": "Myeloma",
+    "field": "diagnosis",
+    "source_text": "Related laboratory tests include serum tests through methods such as immunoglobulin quantification, serum protein electrophoresis, immunofixation electrophoresis, serum free light chains, and the serum free light chain ratio, to detect abnormal monoclonal immunoglobulins in the serum. Urine-related tests: Myeloma patients may have Bence-Jones proteinuria, so protein electrophoresis, immunofixation electrophoresis, as well as 24-hour urine protein and urine light chain quantification can be conducted. Bone marrow biopsy and related tests include bone marrow smears, flow cytometry immunophenotyping, cytogenetic testing, and molecular biological testing such as second-generation sequencing. Bone marrow biopsy and immunohistochemistry: Bone marrow biopsy is one of the important indicators in diagnosing myeloma. Imaging examinations: Whole-body X-ray skeletal assessment is a basic examination to evaluate skeletal involvement, detecting bone damage in the skull, chest, pelvis, humeri, femora, and spine.",
+    "headline": "Standard Diagnostic Tests for Myeloma Include Serum, Urine, Bone Marrow, and Imaging Assessments",
+    "content": "Key diagnostic procedures for myeloma involve serum tests to detect abnormal immunoglobulins, urine tests for Bence-Jones protein, bone marrow biopsy for cellular analysis, and skeletal X-rays to evaluate bone involvement. These methods help confirm diagnosis and assess disease extent objectively.",
+    "generated_text": "{\n  \"headline\": \"Standard Diagnostic Tests for Myeloma Include Serum, Urine, Bone Marrow, and Imaging Assessments\",\n  \"content\": \"Key diagnostic procedures for myeloma involve serum tests to detect abnormal immunoglobulins, urine tests for Bence-Jones protein, bone marrow biopsy for cellular analysis, and skeletal X-rays to evaluate bone involvement. These methods help confirm diagnosis and assess disease extent objectively.\"\n}",
+    "category": "exaggerated_true",
+    "id": 17
+  },
+  {
+    "disease": "Cervical intraepithelial neoplasia",
+    "field": "lifestyle",
+    "source_text": "For regular monitoring of conditions, patients with cervical precancerous lesions should have regular check-ups. Patients who have undergone cervical surgery need post-operative cytology, HPV testing, or combined colposcopy every 4-6 months. After treatment, within 6 and 12 months, two colposcopy plus cervical canal scraping assessments are needed. If results are negative, switch to routine cytology, HPV testing, or combined colposcopy.",
+    "headline": "Regular Monitoring Recommended for Patients with Cervical Precancerous Lesions Post-Treatment",
+    "content": "Patients with cervical precancerous lesions should undergo regular check-ups for condition monitoring. Post-surgery, follow-up every 4-6 months with cytology, HPV testing, or combined colposcopy is advised. After treatment, assessments at 6 and 12 months are required; if results are negative, switch to routine screening methods.",
+    "generated_text": "{\n  \"headline\": \"Regular Monitoring Recommended for Patients with Cervical Precancerous Lesions Post-Treatment\",\n  \"content\": \"Patients with cervical precancerous lesions should undergo regular check-ups for condition monitoring. Post-surgery, follow-up every 4-6 months with cytology, HPV testing, or combined colposcopy is advised. After treatment, assessments at 6 and 12 months are required; if results are negative, switch to routine screening methods.\"\n}",
+    "category": "exaggerated_true",
+    "id": 18
+  },
+  {
+    "disease": "Osteosarcoma",
+    "field": "treatments",
+    "source_text": "The current osteosarcoma treatment plan mainly consists of three parts: preoperative chemotherapy, surgical removal of the lesion, and postoperative chemotherapy. For bone tumor patients, surgical treatment (amputation or limb-sparing surgery) remains the primary method for treating osteosarcoma. The goal of surgery is to remove the lesion as completely as possible while maximally preserving function. For periosteal osteosarcoma, chemotherapy can be considered first, followed by extensive resection. For high-grade osteosarcoma (including medullary and surface types), preoperative adjuvant chemotherapy is recommended. After chemotherapy, a re-evaluation and staging are performed, and if the tumor is resectable, extensive resection should be performed.",
+    "headline": "Standard Osteosarcoma Treatment Involves Preoperative Chemotherapy, Surgery, and Postoperative Chemotherapy",
+    "content": "Current osteosarcoma treatment typically includes preoperative chemotherapy, surgical removal of the lesion, and postoperative chemotherapy. Surgery, such as amputation or limb-sparing procedures, aims to completely remove the tumor while preserving function. For high-grade osteosarcoma, preoperative adjuvant chemotherapy is recommended before re-evaluation and possible extensive resection.",
+    "generated_text": "{\n  \"headline\": \"Standard Osteosarcoma Treatment Involves Preoperative Chemotherapy, Surgery, and Postoperative Chemotherapy\",\n  \"content\": \"Current osteosarcoma treatment typically includes preoperative chemotherapy, surgical removal of the lesion, and postoperative chemotherapy. Surgery, such as amputation or limb-sparing procedures, aims to completely remove the tumor while preserving function. For high-grade osteosarcoma, preoperative adjuvant chemotherapy is recommended before re-evaluation and possible extensive resection.\"\n}",
+    "category": "exaggerated_true",
+    "id": 19
+  },
+  {
+    "disease": "Bone tumor",
+    "field": "diagnosis",
+    "source_text": "Emission computed tomography (ECT) can delineate the extent of lesions weeks or months ahead of other imaging exams and indicate bone metastases, albeit with low specificity, and require confirmation by X-ray or CT. Digital subtraction angiography (DSA) can reveal the tumor's blood supply. Other imaging tests like positron emission tomography-computed tomography (PET-CT), ultrasound scans, myelography, barium meal examination, arthrography, and urography serve as auxiliary methods for diagnosing bone tumors. Pathological examination is the gold standard for confirming bone tumors and includes methods such as needle biopsy, open biopsy, and excisional biopsy. Needle biopsy is the most common and suitable for most bone tumors. For clinically and radiologically benign, small tumors, excisional biopsy may be chosen. Biochemical testing: Most bone tumor patients have normal lab results.",
+    "headline": "Diagnostic Methods for Bone Tumors Include Advanced Imaging and Pathological Biopsy",
+    "content": "Emission computed tomography (ECT) can detect bone lesions and metastases earlier than other imaging methods but requires confirmation via X-ray or CT due to low specificity. Digital subtraction angiography (DSA) visualizes tumor blood supply, while PET-CT and other scans serve auxiliary roles. Pathological examination, particularly needle biopsy, remains the gold standard for diagnosis, with most patients showing normal biochemical test results.",
+    "generated_text": "{\n  \"headline\": \"Diagnostic Methods for Bone Tumors Include Advanced Imaging and Pathological Biopsy\",\n  \"content\": \"Emission computed tomography (ECT) can detect bone lesions and metastases earlier than other imaging methods but requires confirmation via X-ray or CT due to low specificity. Digital subtraction angiography (DSA) visualizes tumor blood supply, while PET-CT and other scans serve auxiliary roles. Pathological examination, particularly needle biopsy, remains the gold standard for diagnosis, with most patients showing normal biochemical test results.\"\n}",
+    "category": "exaggerated_true",
+    "id": 20
+  },
+  {
+    "disease": "Perianal cancer",
+    "field": "prevention",
+    "source_text": "It is generally believed that perianal cancer is treated through surgery, chemoradiotherapy, with a good prognosis. HIV-positive patients have poor tolerance to chemoradiotherapy, but those with well-controlled HIV through highly active antiretroviral therapy show no difference in treatment efficacy compared to other perianal cancer patients. Post-treatment patients should have regular follow-ups for 5 years. Patients recovering after abdominoperineal resection should undergo evaluation (including lymph node metastasis assessment) every 3 to 6 months, and an annual enhanced CT scan of the chest, abdomen, and pelvis for 5 years. Patients who received chemoradiotherapy should be evaluated every 3 to 6 months, including digital rectal examination and rectoscopy, and have an annual enhanced CT scan of the chest, abdomen, and pelvis for 5 years. Metastatic perianal cancer can spread to any organ, with the inguinal lymph nodes being a common site for lymph node metastasis.",
+    "headline": "Perianal Cancer: Standard Treatment Offers Good Prognosis, Regular Follow-Up Recommended",
+    "content": "Perianal cancer is typically treated with surgery and chemoradiotherapy, with a generally good prognosis. HIV-positive patients on effective antiretroviral therapy show similar treatment outcomes. All patients require regular 5-year follow-ups, including periodic examinations and annual enhanced CT scans, to monitor for potential recurrence or metastasis, commonly in the inguinal lymph nodes.",
+    "generated_text": "{\n  \"headline\": \"Perianal Cancer: Standard Treatment Offers Good Prognosis, Regular Follow-Up Recommended\",\n  \"content\": \"Perianal cancer is typically treated with surgery and chemoradiotherapy, with a generally good prognosis. HIV-positive patients on effective antiretroviral therapy show similar treatment outcomes. All patients require regular 5-year follow-ups, including periodic examinations and annual enhanced CT scans, to monitor for potential recurrence or metastasis, commonly in the inguinal lymph nodes.\"\n}",
+    "category": "exaggerated_true",
+    "id": 21
+  },
+  {
+    "disease": "Liver tumor",
+    "field": "diagnosis",
+    "source_text": "- PET-CT: Positron emission tomography-computed tomography (PET-CT) allows for staging diagnosis of malignant tumors and even preliminary examination of whole-body tumor metastasis, clarifying malignancy and prognosis. - Pathological Examination: Liver biopsy for intrahepatic tumors lacking typical imaging features can provide a pathological diagnosis, clarifying the disease. Differential Diagnosis: - Benign and Malignant Distinction: Benign and malignant liver tumors can be distinguished based on tumor growth patterns, growth rates, metastatic occurrence, tumor tissue differentiation, and the extent of their impact on the body. Malignant tumors typically show invasive growth, unclear boundaries, no encapsulation, and generally grow rapidly, capable of metastasizing through the lymphatic system and bloodstream. Pathologically, malignant tumor cells vary in differentiation level and exhibit diverse cell morphology. Malignant tumors significantly impact the body, often compressing nearby tissues and organs, and frequently infiltrating and destroying adjacent tissues and organs, causing bleeding, infection, etc., and leading to unexplained weight loss and other symptoms.",
+    "headline": "PET-CT and Biopsy Key in Diagnosing and Differentiating Liver Tumors",
+    "content": "PET-CT scans enable staging and detection of metastasis in malignant liver tumors. Liver biopsy provides pathological diagnosis for atypical cases. Differentiation between benign and malignant tumors is based on growth patterns, metastasis, and cellular characteristics.",
+    "generated_text": "{\n  \"headline\": \"PET-CT and Biopsy Key in Diagnosing and Differentiating Liver Tumors\",\n  \"content\": \"PET-CT scans enable staging and detection of metastasis in malignant liver tumors. Liver biopsy provides pathological diagnosis for atypical cases. Differentiation between benign and malignant tumors is based on growth patterns, metastasis, and cellular characteristics.\"\n}",
+    "category": "exaggerated_true",
+    "id": 22
+  },
+  {
+    "disease": "Hilar cholangiocarcinoma",
+    "field": "treatments",
+    "source_text": "Radiotherapy for cholangiocarcinoma can be divided into external beam radiotherapy and internal radiation therapy. External beam radiotherapy mainly employs three-dimensional conformal photon radiation therapy schemes, primarily used for palliative treatment in advanced patients ineligible for surgery, often combined with biliary stent insertion and chemotherapy. Internal radiation therapy involves placing radioactive Iridium-192 or Iodine-125 particles near cancerous lesions inside the bile duct through an endoscope (ERCP or choledochoscope), conducting localized high-dose radiation therapy to achieve DNA damage in tumor cells, inhibiting cell replication, and inducing apoptosis. It is necessary to choose a medical center with experienced healthcare providers for systematic evaluation, treatment, and follow-up observation. Other treatments include biliary stent insertion procedures, primarily used for hilar cholangiocarcinoma patients with prominent jaundice symptoms who cannot undergo surgical treatment, aiming to improve jaundice and poor liver function, prerequisites for combining chemotherapy, radiotherapy, and other treatments.",
+    "headline": "Radiotherapy Options for Hilar Cholangiocarcinoma Include External and Internal Approaches",
+    "content": "External beam radiotherapy is used palliatively in advanced cases, often combined with stents and chemotherapy. Internal radiation therapy delivers localized high-dose radiation via endoscopic placement of radioactive particles. Treatment requires evaluation at an experienced medical center for optimal management.",
+    "generated_text": "{\n  \"headline\": \"Radiotherapy Options for Hilar Cholangiocarcinoma Include External and Internal Approaches\",\n  \"content\": \"External beam radiotherapy is used palliatively in advanced cases, often combined with stents and chemotherapy. Internal radiation therapy delivers localized high-dose radiation via endoscopic placement of radioactive particles. Treatment requires evaluation at an experienced medical center for optimal management.\"\n}",
+    "category": "exaggerated_true",
+    "id": 23
+  },
+  {
+    "disease": "Hepatoblastoma",
+    "field": "diagnosis",
+    "source_text": "2. Evidence of hepatocyte differentiation: If samples show some cytoplasmic glycogen, lipid vacuoles, or bile pigment, the probability of hepatoblastoma is high. 3. Evidence of extramedullary hematopoiesis indicates a high probability of hepatoblastoma. 4. Use immunohistochemistry and electron microscopy to aid diagnosis.",
+    "headline": "Key Diagnostic Features for Hepatoblastoma Highlighted in Medical Review",
+    "content": "Cytoplasmic glycogen, lipid vacuoles, bile pigment, and extramedullary hematopoiesis in samples are strong indicators of hepatoblastoma. Immunohistochemistry and electron microscopy serve as valuable diagnostic aids. These findings help improve accuracy in identifying this pediatric liver cancer.",
+    "generated_text": "{\n  \"headline\": \"Key Diagnostic Features for Hepatoblastoma Highlighted in Medical Review\",\n  \"content\": \"Cytoplasmic glycogen, lipid vacuoles, bile pigment, and extramedullary hematopoiesis in samples are strong indicators of hepatoblastoma. Immunohistochemistry and electron microscopy serve as valuable diagnostic aids. These findings help improve accuracy in identifying this pediatric liver cancer.\"\n}",
+    "category": "exaggerated_true",
+    "id": 24
+  },
+  {
+    "disease": "Throat cancer",
+    "field": "symptoms",
+    "source_text": "Coughing and hemoptysis may occur later, and breathing difficulties are common in advanced stages. Accompanying symptoms include a foul smell if there is an infection on the surface of the laryngeal tumor.",
+    "headline": "Advanced Throat Cancer May Present with Breathing Difficulties and Coughing Blood",
+    "content": "In later stages of throat cancer, symptoms such as persistent coughing and hemoptysis (coughing up blood) can occur. Breathing difficulties are also common as the disease progresses. An accompanying foul odor may be present if the laryngeal tumor becomes infected on its surface.",
+    "generated_text": "{\n  \"headline\": \"Advanced Throat Cancer May Present with Breathing Difficulties and Coughing Blood\",\n  \"content\": \"In later stages of throat cancer, symptoms such as persistent coughing and hemoptysis (coughing up blood) can occur. Breathing difficulties are also common as the disease progresses. An accompanying foul odor may be present if the laryngeal tumor becomes infected on its surface.\"\n}",
+    "category": "exaggerated_true",
+    "id": 25
+  },
+  {
+    "disease": "Hodgkin Lymphoma",
+    "field": "diagnosis",
+    "source_text": "Do you have an immune system disease? Were there any obvious inducing factors before the symptoms appeared? Have you had any infections? Hematology or oncology department should be visited.",
+    "headline": "Medical Guidance on Key Diagnostic Considerations for Hodgkin Lymphoma",
+    "content": "Patients presenting with symptoms concerning for Hodgkin Lymphoma are advised to evaluate personal history of immune disorders, potential environmental triggers, and prior infections. A hematology or oncology consultation is recommended for proper diagnostic evaluation.",
+    "generated_text": "{\n    \"headline\": \"Medical Guidance on Key Diagnostic Considerations for Hodgkin Lymphoma\",\n    \"content\": \"Patients presenting with symptoms concerning for Hodgkin Lymphoma are advised to evaluate personal history of immune disorders, potential environmental triggers, and prior infections. A hematology or oncology consultation is recommended for proper diagnostic evaluation.\"\n}",
+    "category": "exaggerated_true",
+    "id": 26
+  },
+  {
+    "disease": "Rhabdomyosarcoma",
+    "field": "introduction",
+    "source_text": "High-risk group: Rhabdomyosarcoma with TNM pre-treatment clinical staging stage 4 and IRS stage IV. Central invasion group: Rhabdomyosarcoma with TNM pre-treatment clinical staging stage 3-4 and IRS stage III-IV, with any of the following: intracranial spread metastasis, positive cerebrospinal fluid, skull base invasion, or cranial nerve paralysis.",
+    "headline": "Medical Study Identifies High-Risk and Central Invasion Groups in Rhabdomyosarcoma Cases",
+    "content": "According to clinical classifications, high-risk rhabdomyosarcoma includes TNM stage 4 and IRS stage IV. The central invasion group covers TNM stages 3–4 and IRS stages III–IV with features such as intracranial spread, cerebrospinal fluid positivity, skull base invasion, or cranial nerve paralysis.",
+    "generated_text": "{\n    \"headline\": \"Medical Study Identifies High-Risk and Central Invasion Groups in Rhabdomyosarcoma Cases\",\n    \"content\": \"According to clinical classifications, high-risk rhabdomyosarcoma includes TNM stage 4 and IRS stage IV. The central invasion group covers TNM stages 3–4 and IRS stages III–IV with features such as intracranial spread, cerebrospinal fluid positivity, skull base invasion, or cranial nerve paralysis.\"\n}",
+    "category": "exaggerated_true",
+    "id": 27
+  },
+  {
+    "disease": "Synovial sarcoma",
+    "field": "prevention",
+    "source_text": "Common mild neurotoxic side effects of vincristine include jaw pain, constipation, decreased deep reflexes, and occasionally vocal disturbances. If severe toxicity signs like persistent abdominal cramps, unsteady gait, severe pain, or syndrome of inappropriate antidiuretic hormone secretion (SIADH) occur, dosage should be reduced, or a less neurotoxic drug like vinblastine should be used instead. If appendicitis occurs, stop the medication and switch to vinblastine after recovery. Without significant toxic symptoms, vincristine is recommended first. Pneumocystis pneumonia infection: Synovial sarcoma patients are at risk for Pneumocystis pneumonia infection, and long-term use of sulfamethoxazole and trimethoprim (SMZco) is usually recommended for prevention.",
+    "headline": "Preventive Strategies Outlined for Synovial Sarcoma Treatment Side Effects and Infections",
+    "content": "For patients undergoing treatment for synovial sarcoma, vincristine is the recommended first-line option, but its dosage should be adjusted or switched to vinblastine if severe neurotoxic side effects occur. Additionally, long-term prophylaxis with sulfamethoxazole-trimethoprim (SMZco) is advised to prevent Pneumocystis pneumonia infections in these immunocompromised patients.",
+    "generated_text": "{\n    \"headline\": \"Preventive Strategies Outlined for Synovial Sarcoma Treatment Side Effects and Infections\",\n    \"content\": \"For patients undergoing treatment for synovial sarcoma, vincristine is the recommended first-line option, but its dosage should be adjusted or switched to vinblastine if severe neurotoxic side effects occur. Additionally, long-term prophylaxis with sulfamethoxazole-trimethoprim (SMZco) is advised to prevent Pneumocystis pneumonia infections in these immunocompromised patients.\"\n}",
+    "category": "exaggerated_true",
+    "id": 28
+  },
+  {
+    "disease": "Thyroid cancer",
+    "field": "treatments",
+    "source_text": "For stage IVC anaplastic thyroid cancer, systemic chemotherapy may be considered. Chemotherapy can cause bone marrow suppression-related symptoms such as leukopenia, thrombocytopenia, and anemia, in addition to nausea, vomiting, hair loss, and cardiotoxicity. Doctors will provide symptomatic treatment according to the situation and discontinue chemotherapy in severe cases. Drug Therapy Due to individual differences, there is no absolute best, fastest, or most effective medication.",
+    "headline": "Systemic Chemotherapy Considered for Stage IVC Anaplastic Thyroid Cancer, Carries Side Effects",
+    "content": "Chemotherapy for advanced anaplastic thyroid cancer may cause side effects including bone marrow suppression, nausea, and hair loss. Treatment is tailored individually, with symptomatic care provided and adjustments made based on severity. No single medication is universally best due to individual differences.",
+    "generated_text": "{\n  \"headline\": \"Systemic Chemotherapy Considered for Stage IVC Anaplastic Thyroid Cancer, Carries Side Effects\",\n  \"content\": \"Chemotherapy for advanced anaplastic thyroid cancer may cause side effects including bone marrow suppression, nausea, and hair loss. Treatment is tailored individually, with symptomatic care provided and adjustments made based on severity. No single medication is universally best due to individual differences.\"\n}",
+    "category": "exaggerated_true",
+    "id": 29
+  },
+  {
+    "disease": "Acute leukemia",
+    "field": "treatments",
+    "source_text": "If the disease relapses, salvage therapy is necessary. Induction remission therapy mainly involves combined chemotherapy, aiming to rapidly eliminate leukemia cells in the patient’s body through high-dose chemotherapy drugs, with the treatment goal being to achieve complete hematologic remission (CR), where symptoms, signs, blood counts, and bone marrow appearances return to normal. Post-remission treatment currently involves two primary methods: continued chemotherapy, divided into consolidation therapy and maintenance therapy, or hematopoietic stem cell transplantation (HSCT), with specific treatment plans determined by clinical circumstances. Consolidation therapy involves alternating chemotherapeutic regimens different from the initial induction remission therapy, rotating different types of chemotherapeutic drugs to avoid the accumulation of drug toxicity within the patient and eradicating residual leukemia cells. Maintenance therapy follows consolidation therapy to further clear residual leukemia cells once the disease is in complete remission.",
+    "headline": "Treatment Pathways for Acute Leukemia Focus on Remission and Relapse Management",
+    "content": "Acute leukemia treatment begins with induction remission therapy using high-dose chemotherapy to achieve complete hematologic remission. Post-remission options include consolidation and maintenance chemotherapy or hematopoietic stem cell transplantation, tailored to clinical circumstances. In cases of relapse, salvage therapy becomes necessary.",
+    "generated_text": "{\n  \"headline\": \"Treatment Pathways for Acute Leukemia Focus on Remission and Relapse Management\",\n  \"content\": \"Acute leukemia treatment begins with induction remission therapy using high-dose chemotherapy to achieve complete hematologic remission. Post-remission options include consolidation and maintenance chemotherapy or hematopoietic stem cell transplantation, tailored to clinical circumstances. In cases of relapse, salvage therapy becomes necessary.\"\n}",
+    "category": "exaggerated_true",
+    "id": 30
+  },
+  {
+    "disease": "Teratoma",
+    "field": "treatments",
+    "source_text": "If a fetal sacrococcygeal teratoma is detected during pregnancy, doctors will closely monitor the condition of the pregnant woman. If the teratoma remains small and shows no signs of growth, normal vaginal delivery may proceed. However, if the tumor is large or there is polyhydramnios, the doctor may plan for an early cesarean section. In rare cases, the tumor will need to be removed before life-threatening complications arise. Teratomas detected at birth or after birth will be surgically removed. Postoperative monitoring is necessary to prevent recurrence.",
+    "headline": "Management of Fetal Sacrococcygeal Teratoma: Monitoring and Surgical Options",
+    "content": "Doctors closely monitor fetal sacrococcygeal teratomas during pregnancy. Small, stable tumors may allow vaginal delivery, while large tumors or polyhydramnios often necessitate early cesarean section. Surgical removal is required for tumors detected at or after birth, followed by postoperative monitoring to prevent recurrence.",
+    "generated_text": "{\n  \"headline\": \"Management of Fetal Sacrococcygeal Teratoma: Monitoring and Surgical Options\",\n  \"content\": \"Doctors closely monitor fetal sacrococcygeal teratomas during pregnancy. Small, stable tumors may allow vaginal delivery, while large tumors or polyhydramnios often necessitate early cesarean section. Surgical removal is required for tumors detected at or after birth, followed by postoperative monitoring to prevent recurrence.\"\n}",
+    "category": "exaggerated_true",
+    "id": 31
+  },
+  {
+    "disease": "Papillary Thyroid Carcinoma",
+    "field": "diagnosis",
+    "source_text": "Fine needle aspiration biopsy, under ultrasound guidance (US-FNAB), involves using a fine needle to puncture thyroid nodules for cytological diagnosis to determine the nature of the target lesion. This test has a high success rate for material collection, diagnostic accuracy, and safety, being a method for further determining the nature of thyroid nodules. Computed tomography (CT) is used to evaluate the extent of thyroid tumors and their relationship with important surrounding structures, such as the trachea, esophagus, and carotid artery, and to assess lymph node metastasis. If pulmonary metastasis is suspected, this examination should be performed to evaluate the location, size, and number of pulmonary metastasis lesions. Thyroid cancer functional metabolic imaging is typically conducted before iodine-131 treatment for papillary thyroid cancer to determine the size and function of the residual thyroid post-surgery, thereby obtaining information on the location, morphology, quantity, and metabolism of lesions. Laryngoscopy before surgery can evaluate vocal cord activity and detect possible recurrent laryngeal nerve damage, providing surgical guidance for doctors. Differential diagnosis of thyroid adenoma, the most common benign thyroid tumor, usually occurs in young people aged 20 to 30, often as a single nodule with a smooth surface and slow growth.",
+    "headline": "Diagnostic Approaches for Papillary Thyroid Carcinoma Emphasize Precision and Safety",
+    "content": "Fine needle aspiration biopsy under ultrasound guidance is a key diagnostic tool for evaluating thyroid nodules, noted for its high accuracy and safety. Additional imaging, including CT scans and functional metabolic imaging, helps assess tumor extent and potential metastasis. Preoperative laryngoscopy evaluates vocal cord function to guide surgical planning.",
+    "generated_text": "{\n  \"headline\": \"Diagnostic Approaches for Papillary Thyroid Carcinoma Emphasize Precision and Safety\",\n  \"content\": \"Fine needle aspiration biopsy under ultrasound guidance is a key diagnostic tool for evaluating thyroid nodules, noted for its high accuracy and safety. Additional imaging, including CT scans and functional metabolic imaging, helps assess tumor extent and potential metastasis. Preoperative laryngoscopy evaluates vocal cord function to guide surgical planning.\"\n}",
+    "category": "exaggerated_true",
+    "id": 32
+  },
+  {
+    "disease": "Acute Lymphoblastic Leukemia",
+    "field": "causes",
+    "source_text": "Certain chemicals like pesticides, benzene and its derivatives, formaldehyde, nitrosamines, and chloramphenicol can potentially induce leukemia. Genetic factors typically do not make leukemia hereditary, but populations with genetic defects are more susceptible to leukemia, such as individuals with Trisomy 21, congenital distal capillary telangiectasia, etc. Studies have also indicated that variations in the IKZF1, ARID5B, CEBPE, and CDKN2A alleles may be linked to susceptibility to childhood acute lymphoblastic leukemia. Other blood disorders, like myelodysplastic syndrome (MDS), lymphoma, multiple myeloma, and paroxysmal nocturnal hemoglobinuria (PNH), may eventually develop into leukemia.",
+    "headline": "Research Links Environmental and Genetic Factors to Acute Lymphoblastic Leukemia Risk",
+    "content": "Exposure to chemicals like benzene, pesticides, and formaldehyde may increase the risk of developing acute lymphoblastic leukemia (ALL). While not typically hereditary, certain genetic conditions and variations in genes such as IKZF1 and CDKN2A are associated with higher susceptibility. Additionally, some pre-existing blood disorders can progress to leukemia in rare cases.",
+    "generated_text": "{\n    \"headline\": \"Research Links Environmental and Genetic Factors to Acute Lymphoblastic Leukemia Risk\",\n    \"content\": \"Exposure to chemicals like benzene, pesticides, and formaldehyde may increase the risk of developing acute lymphoblastic leukemia (ALL). While not typically hereditary, certain genetic conditions and variations in genes such as IKZF1 and CDKN2A are associated with higher susceptibility. Additionally, some pre-existing blood disorders can progress to leukemia in rare cases.\"\n}",
+    "category": "exaggerated_true",
+    "id": 33
+  },
+  {
+    "disease": "Invasive breast carcinoma",
+    "field": "causes",
+    "source_text": "Even individuals who do not normally drink, but occasionally binge drink, also face increased breast cancer risk. Weight and Physical Activity Weight gain and overweight status are widely recognized as risk factors for breast cancer. Weight gain during adulthood is consistently associated with increased postmenopausal breast cancer risk. A sedentary lifestyle also constitutes a risk factor. Diet and Vitamins Research indicates that Western dietary habits (characterized by consuming shrimp, chicken, beef, pork, and sweets) are associated with an increased risk of breast cancer in postmenopausal women.",
+    "headline": "Study Links Lifestyle Factors to Increased Risk of Invasive Breast Carcinoma",
+    "content": "Occasional binge drinking, weight gain in adulthood, sedentary behavior, and Western dietary patterns are associated with elevated breast cancer risk, particularly in postmenopausal women, according to research on disease causes.",
+    "generated_text": "{\n    \"headline\": \"Study Links Lifestyle Factors to Increased Risk of Invasive Breast Carcinoma\",\n    \"content\": \"Occasional binge drinking, weight gain in adulthood, sedentary behavior, and Western dietary patterns are associated with elevated breast cancer risk, particularly in postmenopausal women, according to research on disease causes.\"\n}",
+    "category": "exaggerated_true",
+    "id": 34
+  },
+  {
+    "disease": "Lymphoma",
+    "field": "symptoms",
+    "source_text": "Periodic fever occurs in 16.7% of patients and may be accompanied by skin itching, which is more common in young women and can be the sole systemic symptom of Hodgkin's lymphoma. Between 5% to 16% of Hodgkin's lymphoma patients may develop shingles, and lymph node pain after alcohol consumption is specific to these patients. In non-Hodgkin's lymphoma, the enlarged lymphomas may compress corresponding organs, often leading to respective symptoms in various organs and systems. For example, pharyngeal lymph node lesions can cause swallowing difficulties, nasal congestion, nosebleeds, and submandibular lymph node enlargement; pulmonary involvement is often seen in the hilum and mediastinum. Accompanying symptoms of lymphomas include systemic symptoms such as fever, night sweats, skin itching, and weight loss.",
+    "headline": "Study Details Varied Symptom Patterns in Lymphoma Patients Across Subtypes",
+    "content": "Periodic fever occurs in 16.7% of lymphoma patients and may be accompanied by skin itching, particularly in young women with Hodgkin lymphoma. Alcohol-induced lymph node pain is specific to Hodgkin lymphoma, while non-Hodgkin lymphoma often presents with organ compression symptoms. Systemic symptoms like fever, night sweats, and weight loss are common across subtypes.",
+    "generated_text": "{\n    \"headline\": \"Study Details Varied Symptom Patterns in Lymphoma Patients Across Subtypes\",\n    \"content\": \"Periodic fever occurs in 16.7% of lymphoma patients and may be accompanied by skin itching, particularly in young women with Hodgkin lymphoma. Alcohol-induced lymph node pain is specific to Hodgkin lymphoma, while non-Hodgkin lymphoma often presents with organ compression symptoms. Systemic symptoms like fever, night sweats, and weight loss are common across subtypes.\"\n}",
+    "category": "exaggerated_true",
+    "id": 35
+  },
+  {
+    "disease": "Ovarian cancer",
+    "field": "diagnosis",
+    "source_text": "Imaging mostly shows cystic masses with smooth walls and typically no marked abdominal or pelvic ascites. The differentiation between benign and malignant ovarian tumors is as follows: Differentiation Content | Benign Tumor | Malignant Tumor ---|---|--- History | Long course, slow tumor growth | Short course, rapid tumor enlargement Location and Nature of Mass | Mostly unilateral, cystic, smooth, mobile | Mostly bilateral, solid or cystic-solid, irregular, fixed Ascites | Generally absent | Often present, malignant cells may be found General Condition | Good | Risk of emaciation and cachexia Ultrasound Examination | Fluid-filled dark area, clear boundaries, septated light bands | Disorganized light clusters/particles, unclear boundaries in fluid-filled dark area CA125 ( >50 years) | Normal or slightly elevated | Significantly elevated",
+    "headline": "Key Diagnostic Features Differentiate Benign and Malignant Ovarian Tumors",
+    "content": "Imaging of ovarian tumors often reveals cystic masses with smooth walls and typically no ascites. Differentiation between benign and malignant cases depends on factors such as mass characteristics, presence of ascites, ultrasound findings, and CA125 levels, particularly in patients over 50.",
+    "generated_text": "{\n    \"headline\": \"Key Diagnostic Features Differentiate Benign and Malignant Ovarian Tumors\",\n    \"content\": \"Imaging of ovarian tumors often reveals cystic masses with smooth walls and typically no ascites. Differentiation between benign and malignant cases depends on factors such as mass characteristics, presence of ascites, ultrasound findings, and CA125 levels, particularly in patients over 50.\"\n}",
+    "category": "exaggerated_true",
+    "id": 36
+  },
+  {
+    "disease": "Squamous cell carcinoma",
+    "field": "introduction",
+    "source_text": "A malignant tumor originating from squamous epithelium involves various cancer nests of malignant transformation occurring in tissues and organs covered by squamous epithelium, with different degrees of keratinization causing varying symptoms, prognosis, treatment, and prognosis related to the disease's definition and tumor occurrence location and staging. Squamous cell carcinoma refers to a malignant tumor originating from squamous epithelium, with tumor cell nests showing varying degrees of keratinization: in well-differentiated squamous cell carcinoma under the microscope, intercellular bridges can be seen among cells, with lamellar keratin appearing in the center of cancer nests, known as keratin pearls or cancer pearls; poorly differentiated squamous cell carcinoma under the microscope lacks keratin pearl formation, sometimes even lacking intercellular bridges, with tumor cells showing significant atypia and numerous mitotic figures. This is a general term for a class of tumors, encompassing various malignant transformations occurring in organs and tissues covered by squamous epithelium, commonly seen in areas like the skin, oral cavity, esophagus, cervix, and vagina, and also observable in the bronchus, bladder, renal pelvis, etc. Epidemiology varies across different organ systems for squamous cell carcinoma, with a brief selection of representative diseases described below. Lung cancer ranks high in both incidence and mortality. Lung squamous cell carcinoma accounts for about 30%-35% of all lung cancer patients, primarily central lung cancer, with fewer peripheral squamous cell carcinomas. It mostly originates from the bronchial mucosa of segments and sub-segments, commonly seen in elderly males.",
+    "headline": "Squamous Cell Carcinoma: A Malignant Tumor Originating from Squamous Epithelium",
+    "content": "Squamous cell carcinoma is a type of malignant tumor that arises from squamous epithelium, commonly found in organs such as the skin, oral cavity, esophagus, and lungs. It is characterized by varying degrees of keratinization and differentiation, influencing symptoms and prognosis. For example, lung squamous cell carcinoma accounts for approximately 30%-35% of lung cancer cases and is more prevalent in elderly males.",
+    "generated_text": "{\n    \"headline\": \"Squamous Cell Carcinoma: A Malignant Tumor Originating from Squamous Epithelium\",\n    \"content\": \"Squamous cell carcinoma is a type of malignant tumor that arises from squamous epithelium, commonly found in organs such as the skin, oral cavity, esophagus, and lungs. It is characterized by varying degrees of keratinization and differentiation, influencing symptoms and prognosis. For example, lung squamous cell carcinoma accounts for approximately 30%-35% of lung cancer cases and is more prevalent in elderly males.\"\n}",
+    "category": "exaggerated_true",
+    "id": 37
+  },
+  {
+    "disease": "Chronic myeloid leukemia",
+    "field": "lifestyle",
+    "source_text": "Special precautions include taking medications regularly and not reducing or stopping them arbitrarily; avoiding self-medication with Chinese herbal medicine, health supplements, and illegal \"anti-cancer drugs\"; communicating with doctors in case of adverse reactions, as most can be controlled or alleviated; and making regular hospital visits for monitoring and follow-up. Regarding prevention, since the cause of chronic myeloid leukemia is still unclear, there are no effective prevention measures. However, avoiding potential risk factors can reduce the risk of illness, such as avoiding high doses of radiation, contact with chemical substances like those found in renovation materials and hair dye, and quitting smoking. Additionally, a healthy diet, regular routines, regular exercise, and boosting one's immunity can also help in preventing the disease to some extent.",
+    "headline": "Key Lifestyle Recommendations for Managing Chronic Myeloid Leukemia",
+    "content": "Patients should take medications regularly and avoid self-medicating with supplements or unproven treatments. Avoiding high-dose radiation, chemical exposures, and smoking may reduce risks. Maintaining a healthy lifestyle with balanced diet and exercise supports overall wellness.",
+    "generated_text": "{\n    \"headline\": \"Key Lifestyle Recommendations for Managing Chronic Myeloid Leukemia\",\n    \"content\": \"Patients should take medications regularly and avoid self-medicating with supplements or unproven treatments. Avoiding high-dose radiation, chemical exposures, and smoking may reduce risks. Maintaining a healthy lifestyle with balanced diet and exercise supports overall wellness.\"\n}",
+    "category": "exaggerated_true",
+    "id": 38
+  },
+  {
+    "disease": "Prostate cancer",
+    "field": "treatments",
+    "source_text": "Numbness, tingling, or other discomfort is normal post-surgery. Lifestyle management should follow the doctor's advice to resume normal activities, avoiding strenuous exercise or sexual activity shortly after surgery; most men can resume driving 10-14 days post-surgery, based on doctor's advice. In emergency situations after being discharged home, prostate cancer patients should seek medical attention promptly if they experience a fever over 38°C, worsening pain unrelieved by pain medication, difficulty urinating, inability to urinate, painful urination, hematuria or abnormal urinary frequency. Hormone therapy, also known as endocrine therapy, is an important and effective means of treating prostate cancer. Prostate cancer cell growth relies on androgens, and blocking androgen supply will slow cancer cell growth or cause cell death. Hormone therapy mainly includes: Orchiectomy Bilateral orchiectomy is the most effective and has the least side effects among androgen deprivation therapies, achieving short-term treatment effects without the need for other auxiliary drugs. However, long-term efficacy depends on the cancer cells' reliance on androgens, with stronger androgen dependence leading to better inhibition effects post-orchiectomy.",
+    "headline": "Guidance on Post-Surgery Recovery and Hormone Therapy for Prostate Cancer Patients",
+    "content": "Numbness and tingling are common after prostate cancer surgery, with driving typically resuming in 10-14 days per medical advice. Patients should watch for fever, severe pain, or urinary issues and seek prompt care. Hormone therapy, including orchiectomy, effectively targets androgen-dependent cancer cells.",
+    "generated_text": "{\n    \"headline\": \"Guidance on Post-Surgery Recovery and Hormone Therapy for Prostate Cancer Patients\",\n    \"content\": \"Numbness and tingling are common after prostate cancer surgery, with driving typically resuming in 10-14 days per medical advice. Patients should watch for fever, severe pain, or urinary issues and seek prompt care. Hormone therapy, including orchiectomy, effectively targets androgen-dependent cancer cells.\"\n}",
+    "category": "exaggerated_true",
+    "id": 39
+  },
+  {
+    "disease": "Breast cancer",
+    "field": "causes",
+    "source_text": "The cause of breast cancer is not yet clear. So far, scientists have not found the exact carcinogenic cause of breast cancer, but numerous high-risk factors related to its occurrence have been identified. As these high-risk factors accumulate, the risk of developing breast cancer increases. Fundamentally, the breast is a target organ for various endocrine hormones, among which estrone and estradiol are directly linked to the development of breast cancer. Factors such as early menarche age (<12 years), late menopause age (>55 years), infertility, late age of first childbirth (>30 years), short breastfeeding duration, and postmenopausal estrogen replacement therapy can all increase or prolong the body's exposure to estrogen, closely related to the occurrence of breast cancer. In addition, genetic factors are also high-risk factors for breast cancer. Individuals with a history of breast cancer in first-degree relatives (such as parents, children, and siblings) have a 2-3 times higher risk of developing it than the general population.",
+    "headline": "Research Identifies Key Risk Factors for Breast Cancer Development",
+    "content": "While the exact cause of breast cancer remains unclear, scientists have identified multiple high-risk factors. Prolonged estrogen exposure through factors like early menarche, late menopause, and hormone therapy increases risk. Genetic predisposition also plays a significant role, with first-degree relatives of patients facing 2-3 times higher risk.",
+    "generated_text": "{\n    \"headline\": \"Research Identifies Key Risk Factors for Breast Cancer Development\",\n    \"content\": \"While the exact cause of breast cancer remains unclear, scientists have identified multiple high-risk factors. Prolonged estrogen exposure through factors like early menarche, late menopause, and hormone therapy increases risk. Genetic predisposition also plays a significant role, with first-degree relatives of patients facing 2-3 times higher risk.\"\n}",
+    "category": "exaggerated_true",
+    "id": 40
+  },
+  {
+    "disease": "Breast Fibroadenoma",
+    "field": "causes",
+    "source_text": "Pregnancy during pregnancy leads to elevated estrogen levels in the body, increasing the sensitivity of breast tissue to estrogen, which may lead to the formation or enlargement of fibroadenoma. Estrogen-type drugs can cause fibroadenoma to enlarge.",
+    "headline": "Study Links Elevated Estrogen Levels to Fibroadenoma Development and Growth",
+    "content": "Research indicates that elevated estrogen levels, such as those during pregnancy, can increase breast tissue sensitivity to estrogen, potentially leading to fibroadenoma formation or enlargement. Estrogen-based medications have also been observed to contribute to fibroadenoma growth in some cases.",
+    "generated_text": "{\n    \"headline\": \"Study Links Elevated Estrogen Levels to Fibroadenoma Development and Growth\",\n    \"content\": \"Research indicates that elevated estrogen levels, such as those during pregnancy, can increase breast tissue sensitivity to estrogen, potentially leading to fibroadenoma formation or enlargement. Estrogen-based medications have also been observed to contribute to fibroadenoma growth in some cases.\"\n}",
+    "category": "exaggerated_true",
+    "id": 41
+  },
+  {
+    "disease": "Breast Tumor",
+    "field": "lifestyle",
+    "source_text": "The daily management of breast tumors emphasizes regular self-examinations of the breasts. If a breast lump or nipple discharge is detected, it is important to seek medical advice promptly. Post-surgery patients should engage in upper limb exercises for at least a month to prevent lymphedema; maintain a cheerful disposition, avoiding negative emotional stimuli; take medication as prescribed in cycles; and pay attention to blood routine examinations during chemotherapy and radiotherapy for malignant tumors. Breast tumor patients should avoid the use of estrogen-containing foods or drugs.",
+    "headline": "Daily Management and Lifestyle Tips for Breast Tumor Patients",
+    "content": "Regular self-examinations are advised to detect breast lumps or nipple discharge early. Post-surgery patients should perform upper limb exercises for at least a month to prevent lymphedema and maintain a positive mindset. Medication adherence and monitoring blood counts during treatments are crucial, while avoiding estrogen-containing products is recommended.",
+    "generated_text": "{\n  \"headline\": \"Daily Management and Lifestyle Tips for Breast Tumor Patients\",\n  \"content\": \"Regular self-examinations are advised to detect breast lumps or nipple discharge early. Post-surgery patients should perform upper limb exercises for at least a month to prevent lymphedema and maintain a positive mindset. Medication adherence and monitoring blood counts during treatments are crucial, while avoiding estrogen-containing products is recommended.\"\n}",
+    "category": "exaggerated_true",
+    "id": 42
+  },
+  {
+    "disease": "Choriocarcinoma",
+    "field": "diagnosis",
+    "source_text": "An increase in blood hCG levels (>10%) measured three times (days 1, 7, 14), continuing for 2 weeks or more. The diagnostic criteria for trophoblastic tumors after non-molar pregnancies are: high blood β-hCG levels persisting 4 weeks or more after miscarriage, full-term delivery, ectopic pregnancy termination, or if the levels rise again after an initial decline, and retained products of conception or a new pregnancy have been excluded. Histological diagnosis confirms choriocarcinoma. Ultrasound examination is the most commonly used method for diagnosing the primary uterine lesion. Chest X-ray is a routine examination. If clear lung metastases are found, it supports the diagnosis of trophoblastic tumors. CT and MRI: CT is mainly used to detect small lesions in the lungs and metastases in the brain, liver, and other organs.",
+    "headline": "Diagnostic Criteria and Imaging Methods for Choriocarcinoma Outlined",
+    "content": "Choriocarcinoma diagnosis involves persistent elevated blood β-hCG levels following pregnancy events, with histological confirmation. Ultrasound is primary for uterine lesions, while chest X-ray and CT scans help detect metastases in lungs, brain, or liver.",
+    "generated_text": "{\n  \"headline\": \"Diagnostic Criteria and Imaging Methods for Choriocarcinoma Outlined\",\n  \"content\": \"Choriocarcinoma diagnosis involves persistent elevated blood β-hCG levels following pregnancy events, with histological confirmation. Ultrasound is primary for uterine lesions, while chest X-ray and CT scans help detect metastases in lungs, brain, or liver.\"\n}",
+    "category": "exaggerated_true",
+    "id": 43
+  },
+  {
+    "disease": "Breast ductal carcinoma",
+    "field": "lifestyle",
+    "source_text": "Regularly perform self-examinations or specialized breast examinations. If you feel discomfort or discover any issues during examinations, seek medical advice promptly for early diagnosis and treatment of various breast diseases. In daily life, manage your diet and develop good eating habits; consume more fresh fruits and vegetables; a high-protein, vitamin-rich diet is recommended; keep it light; avoid excessive intake of greasy, spicy, and other stimulating foods; quit smoking and alcohol. Exercise engage in appropriate physical activities not only to maintain physical vitality but also to combat psychological depression and anxiety. Enhance physical exercise; for those who are no longer suitable for strenuous exercises, consider activities like yoga or aerobics. Regularly monitor your condition by performing self-examinations of the breasts or having specialized breast examinations. Special precautions if you feel discomfort or detect any issues during examinations, consult a doctor promptly.",
+    "headline": "Lifestyle Measures for Breast Health: Emphasizing Self-Exams, Diet, and Exercise",
+    "content": "Regular self-examinations and professional breast screenings are recommended for early detection of issues like breast ductal carcinoma. A balanced diet rich in fruits, vegetables, and proteins, while avoiding excessive greasy or spicy foods, supports overall health. Moderate exercise, such as yoga, helps maintain physical and mental well-being.",
+    "generated_text": "{\n    \"headline\": \"Lifestyle Measures for Breast Health: Emphasizing Self-Exams, Diet, and Exercise\",\n    \"content\": \"Regular self-examinations and professional breast screenings are recommended for early detection of issues like breast ductal carcinoma. A balanced diet rich in fruits, vegetables, and proteins, while avoiding excessive greasy or spicy foods, supports overall health. Moderate exercise, such as yoga, helps maintain physical and mental well-being.\"\n}",
+    "category": "exaggerated_true",
+    "id": 44
+  },
+  {
+    "disease": "Esophageal cancer",
+    "field": "prevention",
+    "source_text": "The overall 5-year survival rate for esophageal cancer patients after surgery or radical chemoradiotherapy is around 20%. Patients with early-stage esophageal cancer have a good prognosis, with a 5-year survival rate usually exceeding 90% following radical treatment. In contrast, those with symptomatic esophageal cancer who receive no treatment generally die within a year. Extremely early-stage esophageal cancer refers to tumors that infiltrate shallowly, only affecting the mucosal layer, are relatively small, and are without lymph node metastasis. Endoscopic resection or surgical removal can lead to long-term and favorable survival, with a 5-year survival rate exceeding 95%. Early-stage esophageal cancer or locally advanced (mid-stage) refers to tumors that infiltrate and have lymph node metastasis, but no distant metastasis. Some patients in this stage can be cured after radical surgery, preoperative chemoradiotherapy followed by surgery, or radical chemoradiotherapy, while others can have their lifespan extended.",
+    "headline": "Early Detection Crucial for Esophageal Cancer Survival Rates",
+    "content": "Patients with early-stage esophageal cancer have over a 90% 5-year survival rate after treatment, while symptomatic untreated cases typically die within a year. Endoscopic resection for extremely early-stage cases shows survival rates exceeding 95%. Mid-stage patients may achieve cure or extended survival through combined therapies including surgery and chemoradiotherapy.",
+    "generated_text": "{\n  \"headline\": \"Early Detection Crucial for Esophageal Cancer Survival Rates\",\n  \"content\": \"Patients with early-stage esophageal cancer have over a 90% 5-year survival rate after treatment, while symptomatic untreated cases typically die within a year. Endoscopic resection for extremely early-stage cases shows survival rates exceeding 95%. Mid-stage patients may achieve cure or extended survival through combined therapies including surgery and chemoradiotherapy.\"\n}",
+    "category": "exaggerated_true",
+    "id": 45
+  },
+  {
+    "disease": "Neuroblastoma",
+    "field": "diagnosis",
+    "source_text": "Neuroblastoma cells can also produce catecholamines. If levels of VMA and HVA in the urine or blood are higher than expected, it supports a neuroblastoma diagnosis. If neuroblastoma is suspected or has already been detected, routine blood, liver, kidney function, and electrolyte tests are usually conducted concurrently. Imaging tests such as ultrasound, X-rays, CT, and MRI are helpful for diagnosing neuroblastoma, assessing the extent of tumor spread, and evaluating treatment effectiveness.",
+    "headline": "Diagnostic Approaches for Neuroblastoma Include Biochemical and Imaging Tests",
+    "content": "Elevated urine or blood levels of VMA and HVA, catecholamine byproducts, can support a neuroblastoma diagnosis. Blood tests for organ function and electrolytes are often performed alongside imaging like ultrasound, CT, or MRI to assess tumor spread and treatment response.",
+    "generated_text": "{\n  \"headline\": \"Diagnostic Approaches for Neuroblastoma Include Biochemical and Imaging Tests\",\n  \"content\": \"Elevated urine or blood levels of VMA and HVA, catecholamine byproducts, can support a neuroblastoma diagnosis. Blood tests for organ function and electrolytes are often performed alongside imaging like ultrasound, CT, or MRI to assess tumor spread and treatment response.\"\n}",
+    "category": "exaggerated_true",
+    "id": 46
+  },
+  {
+    "disease": "Adrenal tumor",
+    "field": "introduction",
+    "source_text": "Treatment is primarily surgical but may include radiotherapy, chemotherapy, and other treatment methods.",
+    "headline": "Adrenal Tumor Treatment Options Include Surgery, Radiotherapy, and Chemotherapy",
+    "content": "Surgical removal is the primary treatment for adrenal tumors. Additional approaches, such as radiotherapy and chemotherapy, may also be utilized based on individual patient needs and tumor characteristics.",
+    "generated_text": "{\n  \"headline\": \"Adrenal Tumor Treatment Options Include Surgery, Radiotherapy, and Chemotherapy\",\n  \"content\": \"Surgical removal is the primary treatment for adrenal tumors. Additional approaches, such as radiotherapy and chemotherapy, may also be utilized based on individual patient needs and tumor characteristics.\"\n}",
+    "category": "exaggerated_true",
+    "id": 47
+  },
+  {
+    "disease": "Kidney cancer",
+    "field": "introduction",
+    "source_text": "In February 2018, the National Cancer Center released the latest cancer data, with a renal cancer incidence rate of 4.99 per 100,000 population in China in 2014, with male renal cancer incidence at 6.09 per 100,000 and female at 3.84 per 100,000. Disease Types - Clinical Classification: The World Health Organization (WHO) has launched four versions of classification standards for renal tumors, with the latest being the 2016 WHO classification standard for renal tumors currently used clinically. Renal Cell Carcinoma Characteristics: Common renal cancer types: - Clear cell carcinoma is the most common, accounting for about 60% to 85% of renal cancer. It often shows bleeding, necrosis, cystic changes, and has a colorful appearance, with occasional calcification or ossification. - Multilocular cystic renal neoplasm of low malignant potential, also known as multilocular cystic renal cell carcinoma, consists of innumerable cysts with transparent cells in the walls, no expansive growth; morphologically indistinguishable from clear cell carcinoma, without necrosis, vascular invasion, and sarcomatoid differentiation. - Papillary renal cell carcinoma accounts for about 7% to 14% of renal cancer, generally appearing grayish pink with bleeding, necrosis, and cystic changes being common.",
+    "headline": "National Cancer Center Reports 2014 Kidney Cancer Incidence Rates and WHO Classification Updates",
+    "content": "China's 2014 kidney cancer incidence was 4.99 per 100,000 people, with higher rates in males (6.09) than females (3.84). The WHO's 2016 renal tumor classification system categorizes main subtypes including clear cell carcinoma (60-85% of cases), multilocular cystic renal neoplasm, and papillary renal cell carcinoma (7-14% of cases).",
+    "generated_text": "{\n    \"headline\": \"National Cancer Center Reports 2014 Kidney Cancer Incidence Rates and WHO Classification Updates\",\n    \"content\": \"China's 2014 kidney cancer incidence was 4.99 per 100,000 people, with higher rates in males (6.09) than females (3.84). The WHO's 2016 renal tumor classification system categorizes main subtypes including clear cell carcinoma (60-85% of cases), multilocular cystic renal neoplasm, and papillary renal cell carcinoma (7-14% of cases).\"\n}",
+    "category": "exaggerated_true",
+    "id": 48
+  },
+  {
+    "disease": "Neuroendocrine tumor",
+    "field": "causes",
+    "source_text": "The cause of neuroendocrine tumors is still unknown and may be related to genetic factors. The classification of neuroendocrine tumors is complicated and diverse, with unclear causes at present. Certain neuroendocrine tumors may be associated with genetic factors, such as Multiple Endocrine Neoplasia (MEN, also known as multiple endocrine adenomatosis), familial endocrine adenomatosis related to genetic factors, but the cause of most neuroendocrine tumors is currently unclear.",
+    "headline": "Genetic Links Explored in Neuroendocrine Tumors, Though Most Causes Remain Unclear",
+    "content": "The exact cause of neuroendocrine tumors is still unknown, though some cases are associated with inherited genetic syndromes like Multiple Endocrine Neoplasia. Most cases, however, have no clearly identified cause, and classification remains complex due to the diversity of these tumors.",
+    "generated_text": "{\n  \"headline\": \"Genetic Links Explored in Neuroendocrine Tumors, Though Most Causes Remain Unclear\",\n  \"content\": \"The exact cause of neuroendocrine tumors is still unknown, though some cases are associated with inherited genetic syndromes like Multiple Endocrine Neoplasia. Most cases, however, have no clearly identified cause, and classification remains complex due to the diversity of these tumors.\"\n}",
+    "category": "exaggerated_true",
+    "id": 49
+  },
+  {
+    "disease": "Parotid gland tumor.",
+    "field": "causes",
+    "source_text": "This is a type of tumor disease occurring in the parotid gland, with its exact cause still unclear. Studies suggest that it may be related to factors such as age, gender, and smoking. Basic etiological genetic factors: research has found that certain benign parotid tumors may be associated with specific genetic factors, such as a certain genetic correlation with the occurrence of parotid lymphoepithelial tumors or pleomorphic adenomas. Inducing factors: bacterial or viral infections may induce the occurrence of this disease. Studies have found a strong correlation between smoking and the occurrence of lymphoepithelial tumors (also known as Warthin's tumor). Smokers have an 8 times higher chance of developing lymphoepithelial tumors compared to non-smokers.",
+    "headline": "Research Links Smoking and Genetic Factors to Increased Risk of Certain Parotid Gland Tumors",
+    "content": "The exact cause of parotid gland tumors remains unclear, but studies suggest associations with age, gender, and smoking. Genetic factors may contribute to benign tumors like pleomorphic adenomas, while smoking is strongly correlated with lymphoepithelial tumors (Warthin's tumor), increasing risk eightfold compared to non-smokers. Bacterial or viral infections may also play a role in disease development.",
+    "generated_text": "{\n    \"headline\": \"Research Links Smoking and Genetic Factors to Increased Risk of Certain Parotid Gland Tumors\",\n    \"content\": \"The exact cause of parotid gland tumors remains unclear, but studies suggest associations with age, gender, and smoking. Genetic factors may contribute to benign tumors like pleomorphic adenomas, while smoking is strongly correlated with lymphoepithelial tumors (Warthin's tumor), increasing risk eightfold compared to non-smokers. Bacterial or viral infections may also play a role in disease development.\"\n}",
+    "category": "exaggerated_true",
+    "id": 50
+  },
+  {
+    "disease": "Wilms tumor",
+    "field": "treatments",
+    "source_text": "Both COG and SIOP recommend radiotherapy to be conducted within two weeks post-surgery. Radiotherapy is generally administered in low doses and fractionated. Traditional Chinese Medicine Treatment There is currently no evidence-based medical support for treating this disease with traditional Chinese medicine, but some traditional Chinese medicine methods or medications may alleviate symptoms. It is recommended that treatment be sought at a formal medical institution under the guidance of a physician. Other Treatments Kidney transplantation may be necessary for children with bilateral renal tumors due to kidney function issues. Typically, kidney transplantation needs to occur 1 to 2 years later to complete treatment and ensure no signs of recurrence.",
+    "headline": "Wilms Tumor Treatment Guidelines Emphasize Timely Radiotherapy and Evidence-Based Approaches",
+    "content": "International pediatric oncology groups recommend radiotherapy within two weeks post-surgery for Wilms tumor, using low-dose fractionated regimens. While some traditional Chinese medicine may help alleviate symptoms, there is no evidence-based support for its use in treating the disease itself. For bilateral tumors, kidney transplantation may be necessary 1-2 years after initial treatment to ensure no recurrence and address kidney function issues.",
+    "generated_text": "{\n  \"headline\": \"Wilms Tumor Treatment Guidelines Emphasize Timely Radiotherapy and Evidence-Based Approaches\",\n  \"content\": \"International pediatric oncology groups recommend radiotherapy within two weeks post-surgery for Wilms tumor, using low-dose fractionated regimens. While some traditional Chinese medicine may help alleviate symptoms, there is no evidence-based support for its use in treating the disease itself. For bilateral tumors, kidney transplantation may be necessary 1-2 years after initial treatment to ensure no recurrence and address kidney function issues.\"\n}",
+    "category": "exaggerated_true",
+    "id": 51
+  },
+  {
+    "disease": "Stomach cancer",
+    "field": "diagnosis",
+    "source_text": "Acute gastritis often has obvious causes like stress, medication effects, and alcohol stimulation, with a rapid onset, making it not difficult to distinguish from stomach cancer. Chronic gastritis can be asymptomatic or present upper abdominal discomfort, dull pain, burning sensation, anemia, hematemesis, and melena, symptoms that are non-specific and difficult to differentiate from stomach cancer, requiring a gastroscopy for confirmation. Stomach ulcers compared to stomach cancer generally have a longer course, rhythmic abdominal pain, often post-meal pain, recurrent history, and effective antacid treatment, rarely accompanied by decreased appetite. They can be distinguished through X-ray barium meal and gastroscposition. Gastric lymphoma accounts for 2%-7% of malignant stomach tumors, with non-Hodgkin lymphoma accounting for over 95% of primary gastric malignant lymphomas, often extensively infiltrating the gastric wall to form large shallow ulcerated areas. The main clinical manifestations are upper abdominal discomfort, bleeding, and abdominal masses, and gastric tissue biopsy can differentiate them. Gastrointestinal stromal tumors originate from mesenchymal cells, accounting for about 3% of gastric tumors, generally growing expansively, infiltrating towards the submucosa or serosa to become spherical or lobulated masses.",
+    "headline": "Key Diagnostic Differences Between Stomach Cancer and Other Gastric Conditions",
+    "content": "Acute gastritis typically presents with identifiable triggers and rapid onset, making it distinguishable from stomach cancer. Chronic gastritis and stomach ulcers share non-specific symptoms with cancer but differ in pain patterns and treatment response, requiring gastroscopy for definitive diagnosis. Gastric lymphoma and gastrointestinal stromal tumors, though rare, have distinct growth patterns and require tissue biopsy for differentiation from stomach cancer.",
+    "generated_text": "{\n    \"headline\": \"Key Diagnostic Differences Between Stomach Cancer and Other Gastric Conditions\",\n    \"content\": \"Acute gastritis typically presents with identifiable triggers and rapid onset, making it distinguishable from stomach cancer. Chronic gastritis and stomach ulcers share non-specific symptoms with cancer but differ in pain patterns and treatment response, requiring gastroscopy for definitive diagnosis. Gastric lymphoma and gastrointestinal stromal tumors, though rare, have distinct growth patterns and require tissue biopsy for differentiation from stomach cancer.\"\n}",
+    "category": "exaggerated_true",
+    "id": 52
+  },
+  {
+    "disease": "Gastrointestinal stromal tumor",
+    "field": "diagnosis",
+    "source_text": "Pathology diagnosis through biopsy is the gold standard for confirming gastrointestinal stromal tumor (GIST). Immunohistochemistry assists in GIST diagnosis and differential diagnosis. Special examinations: endoscopy and endoscopic ultrasound allow direct visualization of tumor location, and the doctor observes surface bleeding. Typically, tissue samples are taken endoscopically for pathology. Endoscopic ultrasound combines endoscopy and ultrasound advantages, pinpointing tumors and allowing biopsy or surgical treatment for deeper tumors, providing accurate diagnosis. Genetic testing identifies gene mutations in tumor tissue, aiding complicated case diagnosis, clinical treatment guidance, and predicting targeted therapy effectiveness. All gastrointestinal stromal tumors should undergo genetic testing when feasible, helping to evaluate biological behavior.",
+    "headline": "Comprehensive Diagnostic Approaches for Gastrointestinal Stromal Tumors Emphasize Biopsy and Genetic Testing",
+    "content": "Pathology via biopsy remains the gold standard for confirming GIST, supported by immunohistochemistry for differential diagnosis. Endoscopy and endoscopic ultrasound enable direct tumor visualization and sampling, while genetic testing of tumor tissue aids in diagnosis, guides treatment, and predicts targeted therapy effectiveness.",
+    "generated_text": "{\n  \"headline\": \"Comprehensive Diagnostic Approaches for Gastrointestinal Stromal Tumors Emphasize Biopsy and Genetic Testing\",\n  \"content\": \"Pathology via biopsy remains the gold standard for confirming GIST, supported by immunohistochemistry for differential diagnosis. Endoscopy and endoscopic ultrasound enable direct tumor visualization and sampling, while genetic testing of tumor tissue aids in diagnosis, guides treatment, and predicts targeted therapy effectiveness.\"\n}",
+    "category": "exaggerated_true",
+    "id": 53
+  },
+  {
+    "disease": "Vulvar cancer",
+    "field": "lifestyle",
+    "source_text": "Management of daily life for vulvar cancer focuses on avoiding cancer-promoting factors, building confidence in overcoming cancer, and actively cooperating with treatment. Additionally, vulvar cancer can be prevented through vaccination with the human papillomavirus (HPV) vaccine and regular check-ups. Home care should focus on exercising to enhance physical fitness, balancing work and rest, and consciously adopting healthy behaviors. Patients should be encouraged to follow medical advice to improve treatment adherence and build confidence in overcoming chronic diseases. Vulvar cancer patients are mostly elderly and often have hypertension, coronary heart disease, diabetes, etc. Family members should assist patients in daily symptom monitoring, actively seek medical treatment, and control other comorbid conditions.",
+    "headline": "Lifestyle management and prevention strategies highlighted for vulvar cancer care",
+    "content": "Daily management for vulvar cancer involves avoiding cancer-promoting factors, exercising, and balancing work and rest. Prevention includes HPV vaccination and regular check-ups. Elderly patients, who often have comorbidities like hypertension or diabetes, benefit from family-assisted symptom monitoring and treatment adherence.",
+    "generated_text": "{\n    \"headline\": \"Lifestyle management and prevention strategies highlighted for vulvar cancer care\",\n    \"content\": \"Daily management for vulvar cancer involves avoiding cancer-promoting factors, exercising, and balancing work and rest. Prevention includes HPV vaccination and regular check-ups. Elderly patients, who often have comorbidities like hypertension or diabetes, benefit from family-assisted symptom monitoring and treatment adherence.\"\n}",
+    "category": "exaggerated_true",
+    "id": 54
+  },
+  {
+    "disease": "Small cell lung cancer",
+    "field": "diagnosis",
+    "source_text": "Endobronchial tuberculosis can cause bronchial congestion, edema, ulcers, granulation tissue proliferation, and scarring, leading to airway narrowing and obstruction, resulting in distal inflammation and atelectasis. Regular chest X-rays are challenging to distinguish from lung cancer, mainly relying on sputum smear and bronchoscopy for differentiation. Hilar lymph node tuberculosis easily confuses with central small cell lung cancer. This disease usually occurs in children and adolescents, with most patients experiencing fever and other toxin symptoms, positive tuberculin test, and effective anti-tuberculosis treatment, identifiable through sputum cytology and bronchoscopy.",
+    "headline": "Endobronchial Tuberculosis Presents Diagnostic Challenges in Differentiating from Small Cell Lung Cancer",
+    "content": "Endobronchial tuberculosis can cause bronchial changes leading to airway obstruction and atelectasis, which may resemble lung cancer on imaging. Diagnosis primarily relies on sputum smear analysis and bronchoscopy rather than routine chest X-rays. The condition most commonly affects children and adolescents, with fever and positive tuberculin tests helping distinguish it from malignancies.",
+    "generated_text": "{\n    \"headline\": \"Endobronchial Tuberculosis Presents Diagnostic Challenges in Differentiating from Small Cell Lung Cancer\",\n    \"content\": \"Endobronchial tuberculosis can cause bronchial changes leading to airway obstruction and atelectasis, which may resemble lung cancer on imaging. Diagnosis primarily relies on sputum smear analysis and bronchoscopy rather than routine chest X-rays. The condition most commonly affects children and adolescents, with fever and positive tuberculin tests helping distinguish it from malignancies.\"\n}",
+    "category": "exaggerated_true",
+    "id": 55
+  },
+  {
+    "disease": "Adenocarcinoma",
+    "field": "symptoms",
+    "source_text": "The symptoms caused by adenocarcinoma of various organs vary depending on the location of onset, tumor stage, and other factors. Based on its morphological structure and degree of differentiation, it can be classified as tumors with glandular structures and some with secretory functions, leading to corresponding associated symptoms. A typical symptom of breast cancer is the most common manifestation of a breast lump, which is often painless, sometimes accompanied by skin adhesion, edema, peau d'orange appearance, and skin ulceration. Prostate cancer often has no symptoms in the early stages, but as the tumor progresses, compressive symptoms (progressive difficulty urinating, hydronephrosis, difficulty defecating or intestinal obstruction, perineal pain, etc.) and symptoms related to tumor metastasis can occur. Lung adenocarcinoma often presents with a cough, which is the most common symptom of lung cancer, usually an irritating dry cough.",
+    "headline": "Adenocarcinoma Symptoms Vary by Organ, Stage, and Tumor Differentiation",
+    "content": "Symptoms of adenocarcinoma depend on the organ affected, tumor stage, and differentiation. Breast cancer may present as a painless lump with skin changes, while prostate cancer often shows no early symptoms but later causes urinary or compressive issues. Lung adenocarcinoma commonly involves a persistent dry cough.",
+    "generated_text": "{\n  \"headline\": \"Adenocarcinoma Symptoms Vary by Organ, Stage, and Tumor Differentiation\",\n  \"content\": \"Symptoms of adenocarcinoma depend on the organ affected, tumor stage, and differentiation. Breast cancer may present as a painless lump with skin changes, while prostate cancer often shows no early symptoms but later causes urinary or compressive issues. Lung adenocarcinoma commonly involves a persistent dry cough.\"\n}",
+    "category": "exaggerated_true",
+    "id": 56
+  },
+  {
+    "disease": "Pancreatic cancer",
+    "field": "causes",
+    "source_text": "Quitting smoking for 20 years can reduce the risk of pancreatic cancer to that of the general population. Poor dietary habits, such as long-term alcohol consumption, high-fat and high-protein diets, and long-term heavy coffee consumption, can stimulate pancreatic secretion, induce pancreatitis, and increase the risk of pancreatic cancer. Obesity, particularly when the body mass index (BMI) is ≥ 35kg/m2, increases the risk of pancreatic cancer by 50%. Chronic damage to the pancreas: Some chronic diseases affecting the pancreas increase the risk of pancreatic cancer. Chronic pancreatitis, especially for patients with familial pancreatic cancer, may become an inducing factor for pancreatic cancer.",
+    "headline": "Study Highlights Modifiable Risk Factors for Pancreatic Cancer, Including Smoking and Diet",
+    "content": "Research indicates quitting smoking for 20 years can reduce pancreatic cancer risk to that of the general population. Poor dietary habits, obesity, and chronic pancreatic conditions are also identified as significant risk factors.",
+    "generated_text": "{\n  \"headline\": \"Study Highlights Modifiable Risk Factors for Pancreatic Cancer, Including Smoking and Diet\",\n  \"content\": \"Research indicates quitting smoking for 20 years can reduce pancreatic cancer risk to that of the general population. Poor dietary habits, obesity, and chronic pancreatic conditions are also identified as significant risk factors.\"\n}",
+    "category": "exaggerated_true",
+    "id": 57
+  },
+  {
+    "disease": "Carcinoma in situ",
+    "field": "causes",
+    "source_text": "Currently, the etiology of carcinoma in situ is not clear. In recent years, the concept of epithelial neoplasia has been proposed to describe the continuous process from atypical hyperplasia to carcinoma in situ. Severe atypical hyperplasia and carcinoma in situ are classified as Grade III epithelial neoplasia, and their development is related to multiple factors. Inducing factors: - Esophageal cancer: It results from the synergistic effects of various factors in the body and environment, with dietary factors being relatively important in its etiology. Nitrosamines, fungi, alcohol consumption, smoking, and dietary habits (such as a preference for hot, hard foods), as well as genetics, are all involved in its etiology. - Breast cancer: The age at menarche and menopause is related to the incidence of breast cancer.",
+    "headline": "Research Highlights Multifactorial Nature of Carcinoma in Situ Development",
+    "content": "The exact causes of carcinoma in situ remain unclear, though it is understood to develop through a multifactorial process. Dietary factors, genetics, and environmental exposures are among the implicated risk factors, varying by cancer type. For example, esophageal carcinoma in situ has been linked to nitrosamines and dietary habits, while breast cancer risk correlates with reproductive factors like age at menarche.",
+    "generated_text": "{\n  \"headline\": \"Research Highlights Multifactorial Nature of Carcinoma in Situ Development\",\n  \"content\": \"The exact causes of carcinoma in situ remain unclear, though it is understood to develop through a multifactorial process. Dietary factors, genetics, and environmental exposures are among the implicated risk factors, varying by cancer type. For example, esophageal carcinoma in situ has been linked to nitrosamines and dietary habits, while breast cancer risk correlates with reproductive factors like age at menarche.\"\n}",
+    "category": "exaggerated_true",
+    "id": 58
+  },
+  {
+    "disease": "Penile cancer",
+    "field": "introduction",
+    "source_text": "However, HIV-infected patients often have concurrent HPV infections, multiple sexual partners, poor hygiene habits, and long-term chronic inflammation of the glans, which can relatively increase the risk of penile cancer. Can patients still have sexual intercourse after penile cancer treatment? Most patients can retain sexual function, and different treatment methods are needed depending on the early or late stage of the disease. Patients who undergo penile-preserving surgery, laser treatment, or radiation therapy can retain standing urination and sexual function, while those who undergo total penile resection cannot retain sexual function. How effective is the treatment for penile cancer? The treatment effect is relatively good. The malignancy level of penile cancer is relatively low, and early treatment is effective.",
+    "headline": "Study Notes Factors Linked to Higher Penile Cancer Risk, Treatment Often Preserves Function",
+    "content": "HIV patients with concurrent HPV, multiple partners, or chronic inflammation may have increased penile cancer risk. Treatment effectiveness is high, with penile-preserving surgeries often maintaining urinary and sexual function, while total resection results in loss.",
+    "generated_text": "{\n  \"headline\": \"Study Notes Factors Linked to Higher Penile Cancer Risk, Treatment Often Preserves Function\",\n  \"content\": \"HIV patients with concurrent HPV, multiple partners, or chronic inflammation may have increased penile cancer risk. Treatment effectiveness is high, with penile-preserving surgeries often maintaining urinary and sexual function, while total resection results in loss.\"\n}",
+    "category": "exaggerated_true",
+    "id": 59
+  },
+  {
+    "disease": "Pancreatic tumor",
+    "field": "introduction",
+    "source_text": "Known precancerous lesions of pancreatic ductal adenocarcinoma include pancreatic intraepithelial neoplasia (PanIN), mucinous cystic tumor, and papillary ductal mucinous tumor.",
+    "headline": "Medical Review Identifies Precancerous Lesions Linked to Pancreatic Ductal Adenocarcinoma",
+    "content": "Known precancerous lesions for pancreatic ductal adenocarcinoma include pancreatic intraepithelial neoplasia (PanIN), mucinous cystic tumors, and intraductal papillary mucinous neoplasms. These lesions are recognized in clinical pathology for their potential malignant transformation. Early identification and monitoring are important in managing pancreatic cancer risk.",
+    "generated_text": "{\n  \"headline\": \"Medical Review Identifies Precancerous Lesions Linked to Pancreatic Ductal Adenocarcinoma\",\n  \"content\": \"Known precancerous lesions for pancreatic ductal adenocarcinoma include pancreatic intraepithelial neoplasia (PanIN), mucinous cystic tumors, and intraductal papillary mucinous neoplasms. These lesions are recognized in clinical pathology for their potential malignant transformation. Early identification and monitoring are important in managing pancreatic cancer risk.\"\n}",
+    "category": "exaggerated_true",
+    "id": 60
+  },
+  {
+    "disease": "Insulinoma",
+    "field": "treatments",
+    "source_text": "For locally advanced and metastatic islet cell tumors, surgery should be considered for local recurrence, isolated distant metastases, or previously inoperable lesions turned resectable post-treatment if the patient's physical condition allows. For those not entirely resectable, whether cytoreductive surgery or palliative resection of primary lesions can extend survival remains debatable. For islet cell tumors with a syndrome, surgical removal is advised for functional tumors associated with MEN1; for MEN1-related non-functional islet cell tumors, surgical principles align with those for sporadic islet cell tumors. There's controversy over removing multiple islet cell tumors. In traditional Chinese medicine (TCM), no evidence-based support is available for treating this disease, but some methods or medications might relieve symptoms, and treatment under physician guidance at formal medical institutions is suggested. Frontier treatments, including related immunotherapy or targeted therapy, for islet cell or neuroendocrine tumors progress rapidly, and patients who cannot undergo surgery may consider participating in related clinical trials.",
+    "headline": "Surgery Considerations and Emerging Therapies for Advanced Insulinoma Discussed",
+    "content": "For locally advanced or metastatic insulinoma, surgery may be considered for select cases if the patient's condition permits. The role of cytoreductive or palliative surgery for unresectable tumors remains debated. Patients may explore emerging immunotherapy or targeted therapy clinical trials if surgery is not an option.",
+    "generated_text": "{\n    \"headline\": \"Surgery Considerations and Emerging Therapies for Advanced Insulinoma Discussed\",\n    \"content\": \"For locally advanced or metastatic insulinoma, surgery may be considered for select cases if the patient's condition permits. The role of cytoreductive or palliative surgery for unresectable tumors remains debated. Patients may explore emerging immunotherapy or targeted therapy clinical trials if surgery is not an option.\"\n}",
+    "category": "exaggerated_true",
+    "id": 61
+  },
+  {
+    "disease": "Inflammatory breast cancer",
+    "field": "prevention",
+    "source_text": "According to multiple retrospective analysis reports, the short-term (two-year) survival rate for inflammatory breast cancer is about 71%, and the long-term survival rate is approximately 40%. The patient's individual characteristics and tumor traits are related to prognosis; some of these factors are similar to those of early breast cancer. Additionally, biological markers have indicative value for prognosis. In patients who have not undergone systemic treatment, a large extent of lesions, multiple regional lymph node metastases, poor tissue differentiation, high nuclear grade, and a high proliferation index all suggest a poor prognosis. Poor general physical condition, making it difficult to tolerate treatment, is also an adverse factor for prognosis. Negative hormone receptor status is an unfavorable prognostic factor.",
+    "headline": "Study Examines Prognostic Factors for Inflammatory Breast Cancer Survival",
+    "content": "Retrospective analyses indicate a 71% two-year survival rate and approximately 40% long-term survival rate for inflammatory breast cancer. Prognosis is influenced by tumor traits, biological markers, and patient characteristics, with factors including lesion extent, lymph node involvement, and hormone receptor status affecting outcomes.",
+    "generated_text": "{\n  \"headline\": \"Study Examines Prognostic Factors for Inflammatory Breast Cancer Survival\",\n  \"content\": \"Retrospective analyses indicate a 71% two-year survival rate and approximately 40% long-term survival rate for inflammatory breast cancer. Prognosis is influenced by tumor traits, biological markers, and patient characteristics, with factors including lesion extent, lymph node involvement, and hormone receptor status affecting outcomes.\"\n}",
+    "category": "exaggerated_true",
+    "id": 62
+  },
+  {
+    "disease": "Inflammatory Myofibroblastic Tumor",
+    "field": "introduction",
+    "source_text": "Given the heterogeneity of these diseases, inflammatory myofibroblastic tumors are currently regarded as low-grade malignant tumors, meaning tumors with a lower probability of becoming malignant. Epidemiology: Inflammatory myofibroblastic tumor is a rare disease, with a worldwide prevalence of less than one in a million, most commonly seen in children and adolescents, although cases at all stages of adulthood have been reported.",
+    "headline": "Inflammatory Myofibroblastic Tumor: A Rare Low-Grade Malignancy Most Common in Young People",
+    "content": "Inflammatory myofibroblastic tumor (IMT) is a rare disease, with a global prevalence of less than one in a million. It is currently classified as a low-grade malignant tumor, indicating a lower probability of aggressive behavior. While most frequently seen in children and adolescents, cases have been reported across all adult age groups.",
+    "generated_text": "{\n  \"headline\": \"Inflammatory Myofibroblastic Tumor: A Rare Low-Grade Malignancy Most Common in Young People\",\n  \"content\": \"Inflammatory myofibroblastic tumor (IMT) is a rare disease, with a global prevalence of less than one in a million. It is currently classified as a low-grade malignant tumor, indicating a lower probability of aggressive behavior. While most frequently seen in children and adolescents, cases have been reported across all adult age groups.\"\n}",
+    "category": "exaggerated_true",
+    "id": 63
+  },
+  {
+    "disease": "Endometrial cancer",
+    "field": "prevention",
+    "source_text": "If endometrial cancer is detected early and given appropriate treatment, the prognosis is relatively good. Type I endometrial cancer has a better prognosis than type II endometrial cancer. Factors affecting the prognosis of endometrial cancer include the pathological type, histological grade, depth of myometrial invasion, lymphatic metastasis, and extrauterine lesions. Moreover, the patient's overall condition and the choice of treatment plan are closely related to their prognosis. Metastasis and recurrence: most endometrial cancers grow slowly and remain confined to the endometrium or uterine cavity for a long time. The main routes of metastasis include direct spread, lymphatic metastasis, and hematogenous metastasis.",
+    "headline": "Early Detection and Treatment Improve Prognosis for Endometrial Cancer",
+    "content": "Endometrial cancer has a relatively good prognosis when detected early and treated appropriately. Prognosis varies by type, with Type I generally having better outcomes than Type II. Key factors influencing prognosis include pathological type, histological grade, depth of invasion, lymphatic metastasis, and presence of extrauterine lesions.",
+    "generated_text": "{\n  \"headline\": \"Early Detection and Treatment Improve Prognosis for Endometrial Cancer\",\n  \"content\": \"Endometrial cancer has a relatively good prognosis when detected early and treated appropriately. Prognosis varies by type, with Type I generally having better outcomes than Type II. Key factors influencing prognosis include pathological type, histological grade, depth of invasion, lymphatic metastasis, and presence of extrauterine lesions.\"\n}",
+    "category": "exaggerated_true",
+    "id": 64
+  },
+  {
+    "disease": "Rectal cancer",
+    "field": "treatments",
+    "source_text": "In general, the closer the tumor to the anal verge, the lower the success rate of sphincter-sparing surgery; preoperative chemoradiotherapy can shrink tumors, giving some patients the hope of preserving the sphincter. Ensuring complete tumor resection and preserving anal function are prerequisites for sphincter preservation, and whether it can be preserved depends on the surgeon's comprehensive judgment of the patient's condition and the characteristics of rectal cancer. Postoperative care usually involves refraining from eating, providing sufficient parenteral or enteral nutritional support. Once rectal gas is expelled post-surgery, oral intake can be considered, starting with liquid diets and gradually transitioning, focusing on small, frequent meals, and avoiding excessive intake that could cause bloating or indigestion.",
+    "headline": "Treatment Advances in Rectal Cancer Focus on Sphincter Preservation and Postoperative Care",
+    "content": "Preoperative chemoradiotherapy can shrink rectal tumors, increasing eligibility for sphincter-sparing surgery based on tumor location and surgeon assessment. Successful outcomes depend on complete tumor resection and functional preservation. Postoperative recovery involves gradual dietary transitions and nutritional support to manage digestion.",
+    "generated_text": "{\n  \"headline\": \"Treatment Advances in Rectal Cancer Focus on Sphincter Preservation and Postoperative Care\",\n  \"content\": \"Preoperative chemoradiotherapy can shrink rectal tumors, increasing eligibility for sphincter-sparing surgery based on tumor location and surgeon assessment. Successful outcomes depend on complete tumor resection and functional preservation. Postoperative recovery involves gradual dietary transitions and nutritional support to manage digestion.\"\n}",
+    "category": "exaggerated_true",
+    "id": 65
+  },
+  {
+    "disease": "Liposarcoma",
+    "field": "treatments",
+    "source_text": "For the treatment of liposarcoma, chemotherapy based on anthracycline drugs can extend recurrence-free survival time and reduce the local recurrence rate, but does not improve overall survival time.",
+    "headline": "Study: Anthracycline-Based Chemotherapy Improves Recurrence-Free Survival in Liposarcoma, But Not Overall Survival",
+    "content": "A treatment analysis for liposarcoma indicates that chemotherapy regimens centered on anthracycline drugs can extend the time patients remain free of disease and lower the rate of local recurrence. However, the same research found this approach does not lead to a statistically significant improvement in overall survival time. The findings highlight a nuanced benefit of this treatment strategy.",
+    "generated_text": "{\n  \"headline\": \"Study: Anthracycline-Based Chemotherapy Improves Recurrence-Free Survival in Liposarcoma, But Not Overall Survival\",\n  \"content\": \"A treatment analysis for liposarcoma indicates that chemotherapy regimens centered on anthracycline drugs can extend the time patients remain free of disease and lower the rate of local recurrence. However, the same research found this approach does not lead to a statistically significant improvement in overall survival time. The findings highlight a nuanced benefit of this treatment strategy.\"\n}",
+    "category": "exaggerated_true",
+    "id": 66
+  },
+  {
+    "disease": "Peripheral lung cancer",
+    "field": "symptoms",
+    "source_text": "Specifically as follows: Symptoms and signs directly caused by the primary lung tumor Cough is an early symptom, appearing in 50% to 75% of patients, most present with a dry, irritating cough, which can be high-pitched metallic or choking, with or without sputum, and the amount can be small, medium, or large. As these symptoms are not specific, smokers over 50 with a newly appeared persistent cough should undergo further examination. Hemoptysis occurs in 20% to 50% of patients, manifested as blood streaks, clots, or massive hemoptysis in sputum, mostly due to tumor invasion of the airway. Dyspnea or wheezing is seen in 25% to 40% of patients, caused by airway obstruction or compression.",
+    "headline": "Persistent Cough and Hemoptysis Among Common Early Symptoms in Peripheral Lung Cancer",
+    "content": "Cough appears in 50-75% of patients, often dry and irritating. Hemoptysis occurs in 20-50% of cases, while dyspnea or wheezing is seen in 25-40% of patients. Smokers over 50 with new, persistent respiratory symptoms are advised to seek medical evaluation.",
+    "generated_text": "{\n  \"headline\": \"Persistent Cough and Hemoptysis Among Common Early Symptoms in Peripheral Lung Cancer\",\n  \"content\": \"Cough appears in 50-75% of patients, often dry and irritating. Hemoptysis occurs in 20-50% of cases, while dyspnea or wheezing is seen in 25-40% of patients. Smokers over 50 with new, persistent respiratory symptoms are advised to seek medical evaluation.\"\n}",
+    "category": "exaggerated_true",
+    "id": 67
+  },
+  {
+    "disease": "Cardia cancer",
+    "field": "causes",
+    "source_text": "The onset of cardia cancer is influenced by multiple factors, with a relatively unified consensus on the association of gastroesophageal reflux disease, hiatal hernia, cardia intestinal metaplasia, and Helicobacter pylori infection with the development of cardia cancer. The basic etiology of Siewert type I tumor: originates from the area of esophageal intestinal metaplasia (i.e., Barrett's esophagus) and is related to gastroesophageal reflux; Siewert type II tumor: has two different etiologies: some esophageal adenocarcinomas are likely to originate from short or ultrashort segments of Barrett's esophagus; other gastric adenocarcinomas result from Helicobacter pylori infection and atrophic gastritis (same as type III tumors); Siewert type III tumor: its pathogenesis is similar to distal (non-cardia) gastric cancer and is caused by Helicobacter pylori infection and atrophic gastritis. Inducing factors like obesity, smoking, and certain medications (such as antidepressants, calcium channel blockers) can relax the esophageal sphincter, leading to an increased incidence of gastroesophageal reflux disease, which may in turn trigger the development of cardia cancer.",
+    "headline": "Multiple factors linked to cardia cancer development, including gastroesophageal reflux and H. pylori infection",
+    "content": "Research indicates cardia cancer etiology varies by Siewert subtype, with type I associated with Barrett's esophagus and reflux, while types II and III are linked to H. pylori infection and atrophic gastritis. Obesity, smoking, and certain medications may increase risk by promoting gastroesophageal reflux.",
+    "generated_text": "{\n    \"headline\": \"Multiple factors linked to cardia cancer development, including gastroesophageal reflux and H. pylori infection\",\n    \"content\": \"Research indicates cardia cancer etiology varies by Siewert subtype, with type I associated with Barrett's esophagus and reflux, while types II and III are linked to H. pylori infection and atrophic gastritis. Obesity, smoking, and certain medications may increase risk by promoting gastroesophageal reflux.\"\n}",
+    "category": "exaggerated_true",
+    "id": 68
+  },
+  {
+    "disease": "Testicular cancer",
+    "field": "lifestyle",
+    "source_text": "Special considerations such as surgery, radiotherapy, chemotherapy, and psychological stress can lead to sexual dysfunction in patients. In addition to developing personalized fertility preservation plans, support from patients themselves, their families, society, and professional psychological intervention is crucial. Prevention involves early treatment for children with cryptorchidism to reduce the risk of impaired fertility and testicular cancer in adulthood. According to the 2016 European Association of Urology Guidelines on Pediatric Urology, the optimal period for children with cryptorchidism to undergo surgery is 6 to 12 months, and no later than 18 months. Additionally, people with risk factors like a history of cryptorchidism should regularly conduct testicular self-examinations, and seek medical attention promptly if abnormalities are found.",
+    "headline": "Study Highlights Multidisciplinary Approach for Testicular Cancer Survivors' Sexual Health and Fertility",
+    "content": "Testicular cancer treatments may lead to sexual dysfunction, underscoring the need for fertility preservation and psychological support. Early surgery for cryptorchidism in infants reduces future cancer and infertility risks. Regular self-exams are advised for high-risk individuals.",
+    "generated_text": "{\n    \"headline\": \"Study Highlights Multidisciplinary Approach for Testicular Cancer Survivors' Sexual Health and Fertility\",\n    \"content\": \"Testicular cancer treatments may lead to sexual dysfunction, underscoring the need for fertility preservation and psychological support. Early surgery for cryptorchidism in infants reduces future cancer and infertility risks. Regular self-exams are advised for high-risk individuals.\"\n}",
+    "category": "exaggerated_true",
+    "id": 69
+  }
+]

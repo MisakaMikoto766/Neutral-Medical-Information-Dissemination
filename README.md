@@ -41,9 +41,7 @@ Our work highlights the underestimated psychological risks of neutral medical co
   ```
 * Set your LLM API_KEY in `config.json`
 
-
-
-##Run
+**Run**
 
 ```shell
 python propagation_engine.py 
@@ -65,7 +63,7 @@ python propagation_engine.py
 <div align="center">
     <img width="90%" alt="MAD" src="imgs/ex3.png" />
 </div>
-##  📖引用
+## 📖引用
 
 ```
 @inproceedings{wang2026anxiety,

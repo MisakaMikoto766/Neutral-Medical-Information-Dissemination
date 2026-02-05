@@ -63,7 +63,8 @@ python propagation_engine.py
 <div align="center">
     <img width="90%" alt="MAD" src="imgs/ex3.png" />
 </div>
-## 📖引用
+
+## 📖
 
 ```
 @inproceedings{wang2026anxiety,

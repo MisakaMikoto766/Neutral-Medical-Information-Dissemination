@@ -41,6 +41,8 @@ Our work highlights the underestimated psychological risks of neutral medical co
   ```
 * Set your LLM API_KEY in `config.json`
 
+
+
 **Run **
 
 ```shell
@@ -63,3 +65,13 @@ python propagation_engine.py
 <div align="center">
     <img width="90%" alt="MAD" src="imgs/ex3.png" />
 </div>
+## 📖引用
+
+```
+@inproceedings{wang2026anxiety,
+  title     = {Uncovering Risks of Neutral Medical Information Dissemination: Modeling Anxiety Amplification via Multi-Agent Simulation},
+  author    = {Wang, Jianlei and Liu, Kangjun and Guo, Weiyu and Jiang, Yan and Guo, Jianbin and Liu, Xuegang and Lu, Hua and Zhang, Weiyu and Lu, Wenpeng},
+  booktitle = {Proceedings of the 29th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2026)},
+  year      = {2026}
+}
+```
